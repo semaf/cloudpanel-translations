@@ -1,1923 +1,1922 @@
-<?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-    <file source-language="en" target-language="tr" datatype="plaintext" original="file.ext">
-        <body>
-            <trans-unit id="yes">
-                <source>Yes</source>
-                <target>Evet</target>
-            </trans-unit>
-            <trans-unit id="no">
-                <source>No</source>
-                <target>Hayır</target>
-            </trans-unit>
-            <trans-unit id="all">
-                <source>All</source>
-                <target>Tümü</target>
-            </trans-unit>
-            <trans-unit id="support">
-                <source>Support</source>
-                <target>Destek</target>
-            </trans-unit>
-            <trans-unit id="click-to-copy">
-                <source>Click to Copy</source>
-                <target>Kopyalamak için Tıklayın</target>
-            </trans-unit>
-            <trans-unit id="copied-to-clipboard">
-                <source>Copied to Clipboard</source>
-                <target>Panoya Kopyalandı</target>
-            </trans-unit>
-            <trans-unit id="loading">
-                <source>Loading</source>
-                <target>Yükleniyor </target>
-            </trans-unit>
-            <trans-unit id="blog">
-                <source>Blog</source>
-                <target>Blog</target>
-            </trans-unit>
-            <trans-unit id="contact">
-                <source>Contact</source>
-                <target>İletişim</target>
-            </trans-unit>
-            <trans-unit id="docs">
-                <source>Docs</source>
-                <target>Dokümanlar</target>
-            </trans-unit>
-            <trans-unit id="update-available">
-                <source>Update available</source>
-                <target>Yeni Güncelleme Var</target>
-            </trans-unit>
-            <trans-unit id="issues">
-                <source>Issues</source>
-                <target>Sorunlar</target>
-            </trans-unit>
-            <trans-unit id="submit">
-                <source>Submit</source>
-                <target>Gönder</target>
-            </trans-unit>
-            <trans-unit id="site">
-                <source>Site</source>
-                <target>Site</target>
-            </trans-unit>
-            <trans-unit id="sites">
-                <source>Sites</source>
-                <target>Siteler</target>
-            </trans-unit>
-            <trans-unit id="locale-german">
-                <source>German</source>
-                <target>Almanca</target>
-            </trans-unit>
-            <trans-unit id="locale-czech">
-                <source>Czech</source>
-                <target>Çekçe</target>
-            </trans-unit>
-            <trans-unit id="locale-danish">
-                <source>Danish</source>
-                <target>Danca</target>
-            </trans-unit>
-            <trans-unit id="locale-bosnian">
-                <source>Bosnian</source>
-                <target>Boşnakça</target>
-            </trans-unit>
-            <trans-unit id="locale-bulgarian">
-                <source>Bulgarian</source>
-                <target>Bulgarca</target>
-            </trans-unit>
-            <trans-unit id="locale-english">
-                <source>English</source>
-                <target>İngilizce</target>
-            </trans-unit>
-            <trans-unit id="locale-french">
-                <source>French</source>
-                <target>Fransızca</target>
-            </trans-unit>
-            <trans-unit id="locale-korean">
-                <source>Korean</source>
-                <target>Korece</target>
-            </trans-unit>
-            <trans-unit id="locale-hebrew">
-                <source>Hebrew</source>
-                <target>İbranice</target>
-            </trans-unit>
-            <trans-unit id="locale-hungarian">
-                <source>Hungarian</source>
-                <target>Macarca</target>
-            </trans-unit>
-            <trans-unit id="locale-dutch">
-                <source>Dutch</source>
-                <target>Felemenkçe</target>
-            </trans-unit>
-            <trans-unit id="locale-italian">
-                <source>Italian</source>
-                <target>İtalyanca</target>
-            </trans-unit>
-            <trans-unit id="locale-japanese">
-                <source>Japanese</source>
-                <target>Japonca</target>
-            </trans-unit>
-            <trans-unit id="locale-spanish">
-                <source>Spanish</source>
-                <target>İspanyolca</target>
-            </trans-unit>
-            <trans-unit id="locale-persian">
-                <source>Persian</source>
-                <target>Farsça</target>
-            </trans-unit>
-            <trans-unit id="locale-polish">
-                <source>Polish</source>
-                <target>Lehçe</target>
-            </trans-unit>
-            <trans-unit id="locale-portuguese">
-                <source>Portuguese</source>
-                <target>Portekizce</target>
-            </trans-unit>
-            <trans-unit id="locale-portuguese-brasil">
-                <source>Portuguese (Brasil)</source>
-                <target>Portekizce (Brezilya)</target>
-            </trans-unit>
-            <trans-unit id="locale-greek">
-                <source>Greek</source>
-                <target>Yunanca</target>
-            </trans-unit>
-            <trans-unit id="locale-serbian">
-                <source>Serbian</source>
-                <target>Sırpça</target>
-            </trans-unit>
-            <trans-unit id="locale-georgian">
-                <source>Georgian</source>
-                <target>Azerice</target>
-            </trans-unit>
-            <trans-unit id="locale-lithuania">
-                <source>Lithuanian</source>
-                <target>Litvanyaca</target>
-            </trans-unit>
-            <trans-unit id="locale-indonesian">
-                <source>Indonesian</source>
-                <target>Endonezce</target>
-            </trans-unit>
-            <trans-unit id="locale-romanian">
-                <source>Romanian</source>
-                <target>Rumence</target>
-            </trans-unit>
-            <trans-unit id="locale-slovak">
-                <source>Slovak</source>
-                <target>Slovakça</target>
-            </trans-unit>
-            <trans-unit id="locale-russian">
-                <source>Russian</source>
-                <target>Rusça</target>
-            </trans-unit>
-            <trans-unit id="locale-thai">
-                <source>Thai</source>
-                <target>Tayca</target>
-            </trans-unit>
-            <trans-unit id="locale-turkish">
-                <source>Turkish</source>
-                <target>Türkçe</target>
-            </trans-unit>
-            <trans-unit id="locale-ukrainian">
-                <source>Ukrainian</source>
-                <target>Ukraynaca</target>
-            </trans-unit>
-            <trans-unit id="locale-arabic">
-                <source>Arabic</source>
-                <target>Arapça</target>
-            </trans-unit>
-            <trans-unit id="locale-vietnamese">
-                <source>Vietnamese</source>
-                <target>Vietnamca</target>
-            </trans-unit>
-            <trans-unit id="locale-chinese-simplified">
-                <source>Chinese (Simplified)</source>
-                <target>Çince (Basitleştirilmiş)</target>
-            </trans-unit>
-            <trans-unit id="locale-chinese-taiwan">
-                <source>Chinese (Taiwan)</source>
-                <target>Çince (Tayvan)</target>
-            </trans-unit>
-            <trans-unit id="ipv4-public-ip">
-                <source>IPv4 Public IP</source>
-                <target>IPv4 Adresi</target>
-            </trans-unit>
-            <trans-unit id="ipv6-public-ip">
-                <source>IPv6 Public IP</source>
-                <target>IPv6 Adresi</target>
-            </trans-unit>
-            <trans-unit id="os">
-                <source>OS</source>
-                <target>İşletim Sistemi</target>
-            </trans-unit>
-            <trans-unit id="hostname">
-                <source>Hostname</source>
-                <target>Sunucu Adı</target>
-            </trans-unit>
-            <trans-unit id="cpu">
-                <source>CPU</source>
-                <target>İşlemci</target>
-            </trans-unit>
-            <trans-unit id="cores">
-                <source>Cores</source>
-                <target>Çekirdek</target>
-            </trans-unit>
-            <trans-unit id="memory">
-                <source>Memory</source>
-                <target>Bellek</target>
-            </trans-unit>
-            <trans-unit id="user-name">
-                <source>User Name</source>
-                <target>Kullanıcı Adı</target>
-            </trans-unit>
-            <trans-unit id="password">
-                <source>Password</source>
-                <target>Parola</target>
-            </trans-unit>
-            <trans-unit id="login">
-                <source>Log In</source>
-                <target>Giriş Yap</target>
-            </trans-unit>
-            <trans-unit id="settings">
-                <source>Settings</source>
-                <target>Ayarlar</target>
-            </trans-unit>
-            <trans-unit id="logout">
-                <source>Logout</source>
-                <target>Çıkış Yap</target>
-            </trans-unit>
-            <trans-unit id="language">
-                <source>Language</source>
-                <target>Dil</target>
-            </trans-unit>
-            <trans-unit id="firstName">
-                <source>First Name</source>
-                <target>Ad</target>
-            </trans-unit>
-            <trans-unit id="lastName">
-                <source>Last Name</source>
-                <target>Soyad</target>
-            </trans-unit>
-            <trans-unit id="email">
-                <source>E-Mail</source>
-                <target>E-Posta</target>
-            </trans-unit>
-            <trans-unit id="timezone">
-                <source>Timezone</source>
-                <target>Saat Dilimi</target>
-            </trans-unit>
-            <trans-unit id="generate-new-password">
-                <source>Generate new password</source>
-                <target>Yeni Parola Oluştur</target>
-            </trans-unit>
-            <trans-unit id="create-user-button">
-                <source>Create User</source>
-                <target>Kullanıcı Oluştur</target>
-            </trans-unit>
-            <trans-unit id="license-terms-acknowledge">
-                <source>I agree to the license terms and acknowledge the privacy policy.</source>
-                <target><![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">Lisans Koşullarını</a>]]> ve <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">Gizlilik Politikasını</a>]]> Kabul Ediyorum</target>
-            </trans-unit>
-            <trans-unit id="an-error-has-occured">
-                <source>An error has occurred, error message: %errorMessage%</source>
-                <target>Bir Hata Oluştu! Hata Mesajı: %errorMessage%</target>
-            </trans-unit>
-            <trans-unit id="admin-user-creation">
-                <source>Admin User Creation</source>
-                <target>Yönetici Kullanıcısı Oluştur</target>
-            </trans-unit>
-            <trans-unit id="admin-area">
-                <source>Admin Area</source>
-                <target>Yönetici Alanı</target>
-            </trans-unit>
-            <trans-unit id="dashboard">
-                <source>Dashboard</source>
-                <target>Panel</target>
-            </trans-unit>
-            <trans-unit id="account">
-                <source>Account</source>
-                <target>Hesap</target>
-            </trans-unit>
-            <trans-unit id="security">
-                <source>Security</source>
-                <target>Güvenlik</target>
-            </trans-unit>
-            <trans-unit id="account-saved">
-                <source>The account information has been saved.</source>
-                <target>Hesap Bilgileri Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="save">
-                <source>Save</source>
-                <target>Kaydet</target>
-            </trans-unit>
-            <trans-unit id="create">
-                <source>Create</source>
-                <target>Oluştur</target>
-            </trans-unit>
-            <trans-unit id="two-factor-authentication">
-                <source>Two-Factor Authentication</source>
-                <target>2 Adımlı Doğrulama</target>
-            </trans-unit>
-            <trans-unit id="two-factor-authentication-explanation">
-                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
-                <target>iki adımlı doğrulama, hesabınıza ekstra bir güvenlik katmanı ekler, sisteme giriş yaptığınızda, parolanıza ek olarak bir güvenlik kodu girmenizi gerektirir</target>
-            </trans-unit>
-            <trans-unit id="enable-two-factor-authentication">
-                <source>Enable Two-Factor Authentication</source>
-                <target>2 Adımlı Doğrulamayı Etkinleştir</target>
-            </trans-unit>
-            <trans-unit id="connect-your-two-factor-app">
-                <source>Connect your app</source>
-                <target>Uygulamanızı Bağlayın</target>
-            </trans-unit>
-            <trans-unit id="using-an-authenticator-app">
-                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
-                <target><![CDATA[<br>]]>%googleAuthenticatorLink% / %duoLink% vb. kimlik doğrulama uygulamasıyla QR Kodunu taratın<![CDATA[<br>]]>uygulamanızın ekranında gösterilen 6 haneli güvenlik kodunu aşağıdaki alana girin !</target>
-            </trans-unit>
-            <trans-unit id="having-trouble-scanning-the-code">
-                <source>Having trouble scanning the code?</source>
-                <target>kodu taramakta sorun yaşıyorsanız</target>
-            </trans-unit>
-            <trans-unit id="try-this-instead">
-                <source>Try this instead</source>
-                <target>buraya tıklayın</target>
-            </trans-unit>
-            <trans-unit id="select-manual-entry-on-your-app">
-                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>                
-                <target>uygulamanızda manuel girişi seçin ve kullanıcı adını <![CDATA[<code>%userName%</code>]]> güvenlik kodunu <![CDATA[<code>%secret%</code>]]> olarak giriniz !</target>
-            </trans-unit>
-            <trans-unit id="two-factor-authentication-has-been-enabled">
-                <source>Two-Factor Authentication has been enabled.</source>
-                <target>2 Adımlı Doğrulama Etkinleştirildi</target>
-            </trans-unit>
-            <trans-unit id="disable-two-factor-authentication">
-                <source>Disable Two-Factor Authentication</source>
-                <target>2 Adımlı Doğrulamayı Kapat</target>
-            </trans-unit>
-            <trans-unit id="two-factor-authentication-has-been-disabled">
-                <source>Two-Factor Authentication has been disabled.</source>
-                <target>2 Adımlı Doğrulama Kapatıldı</target>
-            </trans-unit>
-            <trans-unit id="enter-authentication-code">
-                <source>Enter authentication code</source>
-                <target>Doğrulama Kodunu Girin</target>
-            </trans-unit>
-            <trans-unit id="back-to-sites">
-                <source>Back to Sites</source>
-                <target>Sitelere Git</target>
-            </trans-unit>
-            <trans-unit id="users">
-                <source>Users</source>
-                <target>Kullanıcılar</target>
-            </trans-unit>
-            <trans-unit id="add-user">
-                <source>Add User</source>
-                <target>Kullanıcı Ekle</target>
-            </trans-unit>
-            <trans-unit id="new-user">
-                <source>New User</source>
-                <target>Yeni Kullanıcı</target>
-            </trans-unit>
-            <trans-unit id="active">
-                <source>Active</source>
-                <target>Aktif</target>
-            </trans-unit>
-            <trans-unit id="not-active">
-                <source>Not Active</source>
-                <target>Pasif</target>
-            </trans-unit>
-            <trans-unit id="role-admin">
-                <source>Admin</source>
-                <target>Yönetici</target>
-            </trans-unit>
-            <trans-unit id="role-user">
-                <source>User</source>
-                <target>Kullanıcı</target>
-            </trans-unit>
-            <trans-unit id="role-site-manager">
-                <source>Site Manager</source>
-                <target>Site Yöneticisi</target>
-            </trans-unit>
-            <trans-unit id="user-has-been-added">
-                <source>User has been added.</source>
-                <target>Kullanıcı Eklendi</target>
-            </trans-unit>
-            <trans-unit id="user-has-been-updated">
-                <source>User has been updated.</source>
-                <target>Kullanıcı Bilgisi Güncellendi</target>
-            </trans-unit>
-            <trans-unit id="no-users-found">
-                <source>No users found.</source>
-                <target>henüz bir kullanıcı bulunmuyor ...</target>
-            </trans-unit>
-            <trans-unit id="role">
-                <source>Role</source>
-                <target>Rol</target>
-            </trans-unit>
-            <trans-unit id="status">
-                <source>Status</source>
-                <target>Durum</target>
-            </trans-unit>
-            <trans-unit id="delete">
-                <source>Delete</source>
-                <target>Sil</target>
-            </trans-unit>
-            <trans-unit id="are-you-sure">
-                <source>Are you sure?</source>
-                <target>bu işlemi yapmak istediğinize emin misiniz?</target>
-            </trans-unit>
-            <trans-unit id="user-has-been-deleted">
-                <source>User has been deleted.</source>
-                <target>Kullanıcı Silindi</target>
-            </trans-unit>
-            <trans-unit id="events">
-                <source>Events</source>
-                <target>Olaylar</target>
-            </trans-unit>
-            <trans-unit id="no-events-found">
-                <source>No events found.</source>
-                <target>henüz bir olay bulunmuyor ...</target>
-            </trans-unit>
-            <trans-unit id="event-time">
-                <source>Event Time</source>
-                <target>Olay Zamanı</target>
-            </trans-unit>
-            <trans-unit id="event">
-                <source>Event</source>
-                <target>Olay</target>
-            </trans-unit>
-            <trans-unit id="view">
-                <source>View</source>
-                <target>Görüntüle</target>
-            </trans-unit>
-            <trans-unit id="notifications">
-                <source>Notifications</source>
-                <target>Bildirimler</target>
-            </trans-unit>
-            <trans-unit id="no-notifications-found">
-                <source>No notifications found.</source>
-                <target>henüz bir bildirim bulunmuyor ...</target>
-            </trans-unit>
-            <trans-unit id="notifications-has-been-deleted">
-                <source>Notification has been deleted.</source>
-                <target>Bildirim Silindi</target>
-            </trans-unit>
-            <trans-unit id="show-message">
-                <source>Show Message</source>
-                <target>Mesajı Göster</target>
-            </trans-unit>
-            <trans-unit id="severity">
-                <source>Severity</source>
-                <target>Önem Derecesi</target>
-            </trans-unit>
-            <trans-unit id="date">
-                <source>Date</source>
-                <target>Tarih</target>
-            </trans-unit>
-            <trans-unit id="message">
-                <source>Message</source>
-                <target>Mesaj</target>
-            </trans-unit>
-            <trans-unit id="action">
-                <source>Action</source>
-                <target>İşlem</target>
-            </trans-unit>
-            <trans-unit id="info">
-                <source>Info</source>
-                <target>Bilgi</target>
-            </trans-unit>
-            <trans-unit id="warning">
-                <source>Warning</source>
-                <target>Uyarı</target>
-            </trans-unit>
-            <trans-unit id="critical">
-                <source>Critical</source>
-                <target>Kritik</target>
-            </trans-unit>
-            <trans-unit id="more-information">
-                <source>More Information</source>
-                <target>Detaylı Bilgi</target>
-            </trans-unit>
-            <trans-unit id="mark-as-read">
-                <source>Mark as Read</source>
-                <target>Okundu Olarak İşaretle</target>
-            </trans-unit>
-            <trans-unit id="mark-as-unread">
-                <source>Mark as Unread</source>
-                <target>Okunmadı Olarak İşaretle</target>
-            </trans-unit>
-            <trans-unit id="instance">
-                <source>Instance</source>
-                <target>Sunucu</target>
-            </trans-unit>
-            <trans-unit id="firewall">
-                <source>Firewall</source>
-                <target>Güvenlik Duvarı</target>
-            </trans-unit>
-            <trans-unit id="service">
-                <source>Service</source>
-                <target>Servis</target>
-            </trans-unit>
-            <trans-unit id="services">
-                <source>Services</source>
-                <target>Servisler</target>
-            </trans-unit>
-            <trans-unit id="rules">
-                <source>Rules</source>
-                <target>Kurallar</target>
-            </trans-unit>
-            <trans-unit id="add-rule">
-                <source>Add Rule</source>
-                <target>Kural Ekle</target>
-            </trans-unit>
-            <trans-unit id="no-rules-found">
-                <source>No rules found.</source>
-                <target>henüz bir güvenlik kuralı bulunmuyor ...</target>
-            </trans-unit>
-            <trans-unit id="add-firewall-rule">
-                <source>Add Firewall Rule</source>
-                <target>Güvenlik Kuralı Ekle</target>
-            </trans-unit>
-            <trans-unit id="rule-has-been-added">
-                <source>Rule has been added.</source>
-                <target>Güvenlik Kuralı Eklendi</target>
-            </trans-unit>
-            <trans-unit id="rule-has-been-deleted">
-                <source>Rule has been deleted.</source>
-                <target>Güvenlik Kuralı Silindi</target>
-            </trans-unit>
-            <trans-unit id="rule-type">
-                <source>Type</source>
-                <target>Tip</target>
-            </trans-unit>
-            <trans-unit id="custom-tcp">
-                <source>Custom TCP</source>
-                <target>Özel TCP</target>
-            </trans-unit>
-            <trans-unit id="port-range">
-                <source>Port Range</source>
-                <target>Port Aralığı</target>
-            </trans-unit>
-            <trans-unit id="ip-version">
-                <source>IP Version</source>
-                <target>Protokol</target>
-            </trans-unit>
-            <trans-unit id="rule-source">
-                <source>Source</source>
-                <target>Kaynak</target>
-            </trans-unit>
-            <trans-unit id="rule-source-custom">
-                <source>Custom</source>
-                <target>Özel</target>
-            </trans-unit>
-            <trans-unit id="rule-source-anywhere-ipv4">
-                <source>Anywhere-IPv4</source>
-                <target>Her Yerden-IPv4</target>
-            </trans-unit>
-            <trans-unit id="rule-source-anywhere-ipv6">
-                <source>Anywhere-IPv6</source>
-                <target>Her Yerden-IPv6</target>
-            </trans-unit>
-            <trans-unit id="rule-source-my-ip">
-                <source>My IP</source>
-                <target>Benim IP Adresim</target>
-            </trans-unit>
-            <trans-unit id="rule-source-ip-or-cidr">
-                <source>IP or CIDR</source>
-                <target>IP veya CIDR</target>
-            </trans-unit>
-            <trans-unit id="rule-description">
-                <source>Description</source>
-                <target>Açıklama</target>
-            </trans-unit>
-            <trans-unit id="actions">
-                <source>Actions</source>
-                <target>İşlem</target>
-            </trans-unit>
-            <trans-unit id="edit-firewall-rule">
-                <source>Edit Firewall Rule</source>
-                <target>Güvenlik Kuralını Düzenle</target>
-            </trans-unit>
-            <trans-unit id="basic-auth">
-                <source>Basic Auth</source>
-                <target>Temel Kimlik Doğrulaması</target>
-            </trans-unit>
-            <trans-unit id="enable-basic-auth">
-                <source>Enable Basic Auth</source>
-                <target>Temel Kimlik Doğrulamasını Etkinleştir</target>
-            </trans-unit>
-            <trans-unit id="basic-auth-in-front-of-cloudpanel">
-                <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>temel kimlik doğrulaması, CloudPanel için ekstra bir güvenlik katmanı ekler !</target>
-            </trans-unit>
-            <trans-unit id="basic-auth-has-been-enabled">
-                <source>Basic Auth has been enabled.</source>
-                <target>Temel Kimlik Doğrulaması Etkinleştirildi</target>
-            </trans-unit>
-            <trans-unit id="running">
-                <source>Running</source>
-                <target>Çalışıyor</target>
-            </trans-unit>
-            <trans-unit id="stopped">
-                <source>Stopped</source>
-                <target>Durduruldu</target>
-            </trans-unit>
-            <trans-unit id="restart">
-                <source>Restart</source>
-                <target>Yeniden Başlat</target>
-            </trans-unit>
-            <trans-unit id="service-will-restart-shortly">
-                <source>Service will restart shortly.</source>
-                <target>servis kısa süre içinde yeniden başlatılacak</target>
-            </trans-unit>
-            <trans-unit id="proftpd-settings">
-                <source>Proftpd Settings</source>
-                <target>ProFTPD Ayarları</target>
-            </trans-unit>
-            <trans-unit id="masquerade-address">
-                <source>MasqueradeAddress</source>
-                <target>Maskeleme Adresi</target>
-            </trans-unit>
-            <trans-unit id="masquerade-address-explanation">
-                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target>maskeleme adresi sunucunun belirtilen ip adresi veya dns ana bilgisayar adının ağ bilgilerini istemciye göstermesini sağlar</target>
-            </trans-unit>
-            <trans-unit id="masquerade-address-has-been-saved">
-                <source>MasqueradeAddress has been saved.</source>
-                <target>Maskeleme Adresi Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="instance-settings">
-                <source>Instance Settings</source>
-                <target>Sunucu Ayarları</target>
-            </trans-unit>
-            <trans-unit id="timezone-has-been-saved">
-                <source>Timezone has been saved.</source>
-                <target>Saat Dilimi Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="reboot">
-                <source>Reboot</source>
-                <target>Yeniden Başlat</target>
-            </trans-unit>
-            <trans-unit id="instance-will-reboot-shortly">
-                <source>Instance will reboot shortly.</source>
-                <target>sanal sunucu kısa süre içinde yeniden başlatılacak</target>
-            </trans-unit>
-            <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
-                <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>saat dilimini değiştirdikten sonra sanal sunucuyu yeniden başlatmanız önerilir</target>
-            </trans-unit>
-            <trans-unit id="general">
-                <source>General</source>
-                <target>Genel</target>
-            </trans-unit>
-            <trans-unit id="database-servers">
-                <source>Database Servers</source>
-                <target>Veritabanı Sunucusu</target>
-            </trans-unit>
-            <trans-unit id="add-database-server">
-                <source>Add Database Server</source>
-                <target>Veritabanı Sunucusu Ekle</target>
-            </trans-unit>
-            <trans-unit id="edit-database-server">
-                <source>Edit Database Server</source>
-                <target>Veritabanı Sunucusunu Düzenle</target>
-            </trans-unit>
-            <trans-unit id="engine">
-                <source>Engine</source>
-                <target>Makine</target>
-            </trans-unit>
-            <trans-unit id="host">
-                <source>Host</source>
-                <target>Sunucu</target>
-            </trans-unit>
-            <trans-unit id="port">
-                <source>Port</source>
-                <target>Port</target>
-            </trans-unit>
-            <trans-unit id="ip-or-dns-name">
-                <source>IP or DNS Name</source>
-                <target>IP veya DNS Adı</target>
-            </trans-unit>
-            <trans-unit id="certificate">
-                <source>Certificate</source>
-                <target>Sertifika</target>
-            </trans-unit>
-            <trans-unit id="set-active">
-                <source>Set Active</source>
-                <target>Aktifleştir</target>
-            </trans-unit>
-            <trans-unit id="database-server-has-been-added">
-                <source>Database Server has been added.</source>
-                <target>Veritabanı Sunucusu Eklendi</target>
-            </trans-unit>
-            <trans-unit id="database-server-has-been-updated">
-                <source>Database Server has been updated.</source>
-                <target>Veritabanı Sunucusu Güncellendi</target>
-            </trans-unit>
-            <trans-unit id="database-server-has-been-deleted">
-                <source>Database Server has been deleted.</source>
-                <target>Veritabanı Sunucusu Silindi</target>
-            </trans-unit>
-            <trans-unit id="database-server-has-been-changed">
-                <source>Database Server has been changed.</source>
-                <target>Veritabanı Sunucusu Değiştirildi.</target>
-            </trans-unit>
-            <trans-unit id="custom-domain">
-                <source>Custom Domain</source>
-                <target>Özel Alan Adı</target>
-            </trans-unit>
-            <trans-unit id="tls-certificate">
-                <source>TLS Certificate</source>
-                <target>TLS Sertifikası</target>
-            </trans-unit>
-            <trans-unit id="lets-encrypt-http-challenge">
-                <source>Let's Encrypt HTTP Challenge</source>
-                <target>Let's Encrypt HTTP Sorgusu</target>
-            </trans-unit>
-            <trans-unit id="lets-encrypt-dns-challenge">
-                <source>Let's Encrypt DNS Challenge</source>
-                <target>Let's Encrypt DNS Sorgusu</target>
-            </trans-unit>
-            <trans-unit id="backups">
-                <source>Backups</source>
-                <target>Yedekler</target>
-            </trans-unit>
-            <trans-unit id="images">
-                <source>Images</source>
-                <target>Yedek</target>
-            </trans-unit>
-            <trans-unit id="aws-credentials">
-                <source>AWS Credentials</source>
-                <target>AWS Kimlik Bilgileri</target>
-            </trans-unit>
-            <trans-unit id="aws-access-key">
-                <source>AWS Access Key</source>
-                <target>AWS Erişim Anahtarı</target>
-            </trans-unit>
-            <trans-unit id="aws-secret-access-key">
-                <source>AWS Secret Access Key</source>
-                <target>AWS Gizli Erişim Anahtarı</target>
-            </trans-unit>
-            <trans-unit id="aws-access-keys-are-not-valid">
-                <source>AWS Access Keys are not valid.</source>
-                <target>AWS Erişim Anahtarı Geçersiz</target>
-            </trans-unit>
-            <trans-unit id="aws-access-keys-have-been-saved">
-                <source>AWS Access Keys have been saved.</source>
-                <target>AWS Erişim Anahtarı Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="aws-images-settings">
-                <source>Images Settings</source>
-                <target>Yedekleme Ayarları</target>
-            </trans-unit>
-            <trans-unit id="aws-enable-automatic-images">
-                <source>Enable Automatic Images</source>
-                <target>Otomatik Yedeklemeyi Etkinleştir</target>
-            </trans-unit>
-            <trans-unit id="frequency">
-                <source>Frequency</source>
-                <target>Sıklık</target>
-            </trans-unit>
-            <trans-unit id="retention-period-days">
-                <source>Retention Period (Days)</source>
-                <target>Saklama Süresi (gün)</target>
-            </trans-unit>
-            <trans-unit id="images-settings-have-been-saved">
-                <source>Images Settings have been saved.</source>
-                <target>Yedekleme Ayarları Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="every-hour">
-                <source>Every Hour</source>
-                <target>Saatte Bir</target>
-            </trans-unit>
-            <trans-unit id="every-three-hours">
-                <source>Every Three Hours</source>
-                <target>3 Saatte Bir</target>
-            </trans-unit>
-            <trans-unit id="every-six-hours">
-                <source>Every Six Hours</source>
-                <target>6 Saatte Bir</target>
-            </trans-unit>
-            <trans-unit id="every-twelve-hours">
-                <source>Every Twelve Hours</source>
-                <target>12 Saatte Bir</target>
-            </trans-unit>
-            <trans-unit id="once-per-day">
-                <source>Once per Day</source>
-                <target>Günde Bir Kez</target>
-            </trans-unit>
-            <trans-unit id="create-image">
-                <source>Create Image</source>
-                <target>Yedek Oluştur</target>
-            </trans-unit>
-            <trans-unit id="image-name">
-                <source>Image Name</source>
-                <target>Yedek Adı</target>
-            </trans-unit>
-            <trans-unit id="no-images-found">
-                <source>No images found.</source>
-                <target>henüz bir yedek bulunmuyor ...</target>
-            </trans-unit>
-            <trans-unit id="available">
-                <source>Available</source>
-                <target>Kullanılabilir</target>
-            </trans-unit>
-            <trans-unit id="pending">
-                <source>Pending</source>
-                <target>Beklemede</target>
-            </trans-unit>
-            <trans-unit id="failed">
-                <source>Failed</source>
-                <target>Başarısız</target>
-            </trans-unit>
-            <trans-unit id="created-at">
-                <source>Created At</source>
-                <target>Oluşturulma Zamanı</target>
-            </trans-unit>
-            <trans-unit id="image-is-being-created">
-                <source>Image is being created.</source>
-                <target>Yedek Oluşturuldu</target>
-            </trans-unit>
-            <trans-unit id="image-is-being-deleted">
-                <source>Image is being deleted.</source>
-                <target>Yedek Silindi</target>
-            </trans-unit>
-            <trans-unit id="access-token-is-not-valid">
-                <source>Access Token is not valid.</source>
-                <target>Access Token Geçersiz</target>
-            </trans-unit>
-            <trans-unit id="access-token-has-been-saved">
-                <source>Access Token has been saved.</source>
-                <target>Access Token Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="access-token">
-                <source>Access Token</source>
-                <target>Access Token</target>
-            </trans-unit>
-            <trans-unit id="snapshots">
-                <source>Snapshots</source>
-                <target>Anlık Yedekler</target>
-            </trans-unit>
-            <trans-unit id="snapshots-settings">
-                <source>Snapshots Settings</source>
-                <target>Anlık Yedek Ayarları</target>
-            </trans-unit>
-            <trans-unit id="enable-automatic-snapshots">
-                <source>Enable Automatic Snapshots</source>
-                <target>Otomatik Anlık Yedeklemeyi Etkinleştir</target>
-            </trans-unit>
-            <trans-unit id="create-snapshot">
-                <source>Create Snapshot</source>
-                <target>Anlık Yedek Oluştur</target>
-            </trans-unit>
-            <trans-unit id="no-snapshots-found">
-                <source>No snapshots found.</source>
-                <target>henüz anlık bir yedek bulunmuyor ...</target>
-            </trans-unit>
-            <trans-unit id="snapshot-name">
-                <source>Snapshot Name</source>
-                <target>Anlık Yedek Adı</target>
-            </trans-unit>
-            <trans-unit id="size">
-                <source>Size</source>
-                <target>Boyut</target>
-            </trans-unit>
-            <trans-unit id="snapshot-is-being-created">
-                <source>Snapshot is being created.</source>
-                <target>Anlık Yedek Oluşturuldu</target>
-            </trans-unit>
-            <trans-unit id="snapshot-is-being-deleted">
-                <source>Snapshot is being deleted.</source>
-                <target>Anlık Yedek Silindi</target>
-            </trans-unit>
-            <trans-unit id="service-account-keys">
-                <source>Service Account Keys</source>
-                <target>Service Account Keys</target>
-            </trans-unit>
-            <trans-unit id="service-account-keys-are-not-valid">
-                <source>Service Account Keys are not valid.</source>
-                <target>Service Account Keys Geçersiz</target>
-            </trans-unit>
-            <trans-unit id="service-account-keys-have-been-saved">
-                <source>Service Account Keys have been saved.</source>
-                <target>Service Account Keys Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="api-key">
-                <source>Api Key</source>
-                <target>Api Key</target>
-            </trans-unit>
-            <trans-unit id="api-key-is-not-valid">
-                <source>Api Key is not valid.</source>
-                <target>Api Key Geçersiz</target>
-            </trans-unit>
-            <trans-unit id="api-key-has-been-saved">
-                <source>Api Key has been saved.</source>
-                <target>Api Key Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="api-token">
-                <source>Api Token</source>
-                <target>Api Token</target>
-            </trans-unit>
-            <trans-unit id="api-token-is-not-valid">
-                <source>Api Token is not valid.</source>
-                <target>Api Token Geçersiz</target>
-            </trans-unit>
-            <trans-unit id="api-token-has-been-saved">
-                <source>Api Token has been saved.</source>
-                <target>Api Token Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="no-sites-found">
-                <source>No sites found.</source>
-                <target>henüz bir site bulunmuyor ...</target>
-            </trans-unit>
-            <trans-unit id="add-site">
-                <source>+ Add Site</source>
-                <target>+ Site Ekle</target>
-            </trans-unit>
-            <trans-unit id="domain">
-                <source>Domain</source>
-                <target>Alan Adı</target>
-            </trans-unit>
-            <trans-unit id="site-user">
-                <source>Site User</source>
-                <target>Site Kullanıcısı</target>
-            </trans-unit>
-            <trans-unit id="site-user-password">
-                <source>Site User Password</source>
-                <target>Site Kullanıcı Parolası</target>
-            </trans-unit>
-            <trans-unit id="app">
-                <source>App</source>
-                <target>Uygulama</target>
-            </trans-unit>
-            <trans-unit id="manage">
-                <source>Manage</source>
-                <target>Yönet</target>
-            </trans-unit>
-            <trans-unit id="ip-address">
-                <source>IP Address</source>
-                <target>IP Adresi</target>
-            </trans-unit>
-            <trans-unit id="vhost">
-                <source>Vhost</source>
-                <target>Vhost</target>
-            </trans-unit>
-            <trans-unit id="databases">
-                <source>Databases</source>
-                <target>Veritabanı</target>
-            </trans-unit>
-            <trans-unit id="ssl-tls">
-                <source>SSL/TLS</source>
-                <target>SSL/TLS</target>
-            </trans-unit>
-            <trans-unit id="ssh-ftp">
-                <source>SSH/FTP</source>
-                <target>SSH/FTP</target>
-            </trans-unit>
-            <trans-unit id="file-manager">
-                <source>File Manager</source>
-                <target>Dosya Yöneticisi</target>
-            </trans-unit>
-            <trans-unit id="cron-jobs">
-                <source>Cron Jobs</source>
-                <target>Görevler</target>
-            </trans-unit>
-            <trans-unit id="logs">
-                <source>Logs</source>
-                <target>Günlükler</target>
-            </trans-unit>
-            <trans-unit id="domain-settings">
-                <source>Domain Settings</source>
-                <target>Alan Adı Ayarları</target>
-            </trans-unit>
-            <trans-unit id="root-directory">
-                <source>Root Directory</source>
-                <target>Kök Dizin</target>
-            </trans-unit>
-            <trans-unit id="domain-name">
-                <source>Domain Name</source>
-                <target>Alan Adı</target>
-            </trans-unit>
-            <trans-unit id="application">
-                <source>Application</source>
-                <target>Uygulama</target>
-            </trans-unit>
-            <trans-unit id="generic">
-                <source>Generic</source>
-                <target>Genel</target>
-            </trans-unit>
-            <trans-unit id="root-directory-has-been-saved">
-                <source>Root Directory has been saved.</source>
-                <target>Kök Dizin Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="php-settings">
-                <source>PHP Settings</source>
-                <target>PHP Ayarları</target>
-            </trans-unit>
-            <trans-unit id="php-version">
-                <source>PHP Version</source>
-                <target>PHP Sürümü</target>
-            </trans-unit>
-            <trans-unit id="memory-limit-explanation">
-                <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
-                <target>bir betiğin ayırmasına izin verilebilecek belleğin azami miktarını belirler</target>
-            </trans-unit>
-            <trans-unit id="max-execution-explanation">
-                <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
-                <target>çözümleyicinin sonlandırılmadan önce bir betiğin çalışabileceği azami süreyi belirler</target>
-            </trans-unit>
-            <trans-unit id="max-input-time-explanation">
-                <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
-                <target>bir betiğin post ve get gibi girdileri çözümlemesi için gereken azami süreyi belirler</target>
-            </trans-unit>
-            <trans-unit id="max-input-vars-explanation">
-                <source>Sets the limit of the number of inputs for posting forms.</source>
-                <target>kabul edilebilecek girdi değişkenlerinin sayısı belirler</target>
-            </trans-unit>
-            <trans-unit id="post-max-size-explanation">
-                <source>Maximum size of POST data that PHP will accept.</source>
-                <target>kabul edilebilecek girdi değişkenlerinin sayısını belirler</target>
-            </trans-unit>
-            <trans-unit id="upload-max-filesize-explanation">
-                <source>The maximum size of an uploaded file.</source>
-                <target>karşıya yüklenecek dosyalar için azami boyutu belirler</target>
-            </trans-unit>
-            <trans-unit id="additional-configuration-explanation">
-                <source>You can define any PHP parameters like you would define in the php.ini.</source>
-                <target>herhangi bir php parametresini php.ini'de tanımladığınız gibi tanımlayabilirsiniz</target>
-            </trans-unit>
-            <trans-unit id="additional-configuration-directives">
-                <source>Additional Configuration Directives</source>
-                <target>Ek Yapılandırma Yönergeleri</target>
-            </trans-unit>
-            <trans-unit id="php-settings-have-been-saved">
-                <source>PHP Settings have been saved.</source>
-                <target>PHP Ayarları Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="delete-site">
-                <source>Delete Site</source>
-                <target>Siteyi Sil</target>
-            </trans-unit>
-            <trans-unit id="deleting-a-site-will-be-permanently">
-                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
-                <target>siteyi silmek istediğinizde siteye ait tüm dosyalar, veritabanları, kullanıcıları ve yapılandırmaları kalıcı olarak kaldırılır ve bu işlem geri alınamaz !</target>
-            </trans-unit>
-            <trans-unit id="cancel">
-                <source>Cancel</source>
-                <target>Vazgeç</target>
-            </trans-unit>
-            <trans-unit id="confirm-site-deletion">
-                <source>To confirm deletion, type %domain% into the field.</source>
-                <target>silme işlemini onaylamak için aşağıya %domain% yazın</target>
-            </trans-unit>
-            <trans-unit id="site-has-been-deleted">
-                <source>Site has been deleted.</source>
-                <target>Site Başarıyla Silindi</target>
-            </trans-unit>
-            <trans-unit id="site-user-settings">
-                <source>Site User Settings</source>
-                <target>Site Kullanıcısı Ayarları</target>
-            </trans-unit>
-            <trans-unit id="site-user-settings-have-been-saved">
-                <source>Site User Settings have been saved.</source>
-                <target>Site Kullanıcısı Ayarları Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="ssh-keys">
-                <source>SSH Keys</source>
-                <target>SSH Anahtarları</target>
-            </trans-unit>
-            <trans-unit id="vhost-editor">
-                <source>Vhost Editor</source>
-                <target>Vhost Düzenleyici</target>
-            </trans-unit>
-            <trans-unit id="vhost-has-been-saved">
-                <source>Vhost has been saved.</source>
-                <target>Vhost Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="vhost-is-not-valid">
-                <source>Vhost is not valid, error message: %errorMessage%</source>
-                <target>Vhost Yapılandırması Geçersiz! - Hata Mesajı: %errorMessage%</target>
-            </trans-unit>
-            <trans-unit id="no-databases-found">
-                <source>No databases found.</source>
-                <target>henüz bir veritabanı bulunmuyor ...</target>
-            </trans-unit>
-            <trans-unit id="database">
-                <source>Database</source>
-                <target>Veritabanı</target>
-            </trans-unit>
-            <trans-unit id="add-database">
-                <source>Add Database</source>
-                <target>Veritabanı Ekle</target>
-            </trans-unit>
-            <trans-unit id="new-database">
-                <source>New Database</source>
-                <target>Veritabanı Oluştur</target>
-            </trans-unit>
-            <trans-unit id="database-has-been-added">
-                <source>Database has been added.</source>
-                <target>Veritabanı Eklendi</target>
-            </trans-unit>
-            <trans-unit id="database-has-been-deleted">
-                <source>Database has been deleted.</source>
-                <target>Veritabanı Silindi</target>
-            </trans-unit>
-            <trans-unit id="database-users">
-                <source>Database Users</source>
-                <target>Veritabanı Kullanıcısı</target>
-            </trans-unit>
-            <trans-unit id="add-database-user">
-                <source>Add Database User</source>
-                <target>Veritabanı Kullanıcısı Ekle</target>
-            </trans-unit>
-            <trans-unit id="no-database-users-found">
-                <source>No database users found.</source>
-                <target>henüz bir veritabanı kullanıcısı bulunmuyor ...</target>
-            </trans-unit>
-            <trans-unit id="read-and-write">
-                <source>Read and Write</source>
-                <target>Okuma ve Yazma</target>
-            </trans-unit>
-            <trans-unit id="read-only">
-                <source>Read Only</source>
-                <target>Sadece Okuma</target>
-            </trans-unit>
-            <trans-unit id="new-database-user">
-                <source>New Database User</source>
-                <target>Veritabanı Kullanıcısı Oluştur</target>
-            </trans-unit>
-            <trans-unit id="database-name">
-                <source>Database Name</source>
-                <target>Veritabanı Adı</target>
-            </trans-unit>
-            <trans-unit id="database-user-name">
-                <source>Database User Name</source>
-                <target>Veritabanı Kullanıcı Adı</target>
-            </trans-unit>
-            <trans-unit id="database-user-password">
-                <source>Database User Password</source>
-                <target>Veritabanı Kullanıcı Parolası</target>
-            </trans-unit>
-            <trans-unit id="permissions">
-                <source>Permissions</source>
-                <target>İzinler</target>
-            </trans-unit>
-            <trans-unit id="no-database-found-create-a-database-first">
-                <source>No database found; create a database first.</source>
-                <target>henüz bir veritabanı bulunmuyor, önce bir veritabanı oluşturmalısınız ...</target>
-            </trans-unit>
-            <trans-unit id="database-user-has-been-added">
-                <source>Database User has been added.</source>
-                <target>Veritabanı Kullanıcısı Eklendi</target>
-            </trans-unit>
-            <trans-unit id="database-user-has-been-deleted">
-                <source>Database User has been deleted.</source>
-                <target>Veritabanı Kullanıcısı Silindi</target>
-            </trans-unit>
-            <trans-unit id="edit-database-user">
-                <source>Edit Database User</source>
-                <target>Veritabanı Kullanıcısını Düzenle</target>
-            </trans-unit>
-            <trans-unit id="database-user-has-been-updated">
-                <source>Database User has been updated.</source>
-                <target>Veritabanı Kullanıcısı Güncellendi</target>
-            </trans-unit>
-            <trans-unit id="certificates">
-                <source>Certificates</source>
-                <target>Sertifikalar</target>
-            </trans-unit>
-            <trans-unit id="new-lets-encrypt-certificate">
-                <source>New Let's Encrypt Certificate</source>
-                <target>Yeni Let's Encrypt SSL Sertifikası</target>
-            </trans-unit>
-            <trans-unit id="import-certificate">
-                <source>Import Certificate</source>
-                <target>Sertifikayı İçe Aktar</target>
-            </trans-unit>
-            <trans-unit id="no-certificates-found">
-                <source>No certificates found.</source>
-                <target>henüz bir sertifika bulunmuyor ...</target>
-            </trans-unit>
-            <trans-unit id="self-signed">
-                <source>Self-Signed</source>
-                <target>Kendinden İmzalı</target>
-            </trans-unit>
-            <trans-unit id="imported">
-                <source>Imported</source>
-                <target>İçe Aktarım Tamamlandı</target>
-            </trans-unit>
-            <trans-unit id="domains">
-                <source>Domains</source>
-                <target>Alan Adları</target>
-            </trans-unit>
-            <trans-unit id="expiration-date">
-                <source>Expiration Date</source>
-                <target>Bitiş Tarihi</target>
-            </trans-unit>
-            <trans-unit id="installed">
-                <source>Installed</source>
-                <target>Kuruldu</target>
-            </trans-unit>
-            <trans-unit id="private-key">
-                <source>Private Key</source>
-                <target>Özel Anahtar</target>
-            </trans-unit>
-            <trans-unit id="certificate-chain">
-                <source>Certificate Chain</source>
-                <target>Sertifika Zinciri</target>
-            </trans-unit>
-            <trans-unit id="certificate-has-been-deleted">
-                <source>Certificate has been deleted.</source>
-                <target>Sertifika Silindi</target>
-            </trans-unit>
-            <trans-unit id="certificate-has-been-installed">
-                <source>Certificate has been installed.</source>
-                <target>Sertifika Kuruldu</target>
-            </trans-unit>
-            <trans-unit id="install">
-                <source>Install</source>
-                <target>Kur</target>
-            </trans-unit>
-            <trans-unit id="import-and-install">
-                <source>Import and Install</source>
-                <target>İçe Aktar ve Kur</target>
-            </trans-unit>
-            <trans-unit id="create-and-install">
-                <source>Create and Install</source>
-                <target>Oluştur ve Kur</target>
-            </trans-unit>
-            <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
-                <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
-                <target>Let's Encrypt SSL sertifikasını eklemek istediğiniz alan adlarını yazın</target>
-            </trans-unit>
-            <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
-                <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
-                <target>Let's Encrypt SSL sertifikası oluşturmak için bu sunucuya yönlendirilmiş bir dns kaydı gereklidir</target>
-            </trans-unit>
-            <trans-unit id="domain-names">
-                <source>Domain Names</source>
-                <target>Alan Adları</target>
-            </trans-unit>
-            <trans-unit id="add-domain">
-                <source>Add Domain</source>
-                <target>Alan Adı Ekle</target>
-            </trans-unit>
-            <trans-unit id="cloudpanel-custom-domain">
-                <source>CloudPanel Custom Domain</source>
-                <target>CloudPanel Özel Alan Adı</target>
-            </trans-unit>
-            <trans-unit id="cloudpanel-custom-domain-has-been-saved">
-                <source>CloudPanel Custom Domain has been saved.</source>
-                <target>CloudPanel Özel Alan Adı Eklendi</target>
-            </trans-unit>
-            <trans-unit id="ip-blocking">
-                <source>IP Blocking</source>
-                <target>IP Adresi Engelle</target>
-            </trans-unit>
-            <trans-unit id="add-ip">
-                <source>Add IP</source>
-                <target>IP Ekle</target>
-            </trans-unit>
-            <trans-unit id="ip">
-                <source>IP</source>
-                <target>IP Adresi</target>
-            </trans-unit>
-            <trans-unit id="no-ips-found">
-                <source>No ips found.</source>
-                <target>henüz engellenmiş bir ip adresi bulunmuyor ...</target>
-            </trans-unit>
-            <trans-unit id="examples">
-                <source>Examples</source>
-                <target>örnek </target>
-            </trans-unit>
-            <trans-unit id="single-ip">
-                <source>Single IP</source>
-                <target>tek bir ip adresi engellemek için</target>
-            </trans-unit>
-            <trans-unit id="cidr-format">
-                <source>CIDR Format</source>
-                <target>cidr formatında engellemek için</target>
-            </trans-unit>
-            <trans-unit id="ip-has-been-added">
-                <source>IP has been added.</source>
-                <target>IP Adresi Eklendi</target>
-            </trans-unit>
-            <trans-unit id="ip-has-been-deleted">
-                <source>IP has been deleted.</source>
-                <target>IP Adresi Silindi</target>
-            </trans-unit>
-            <trans-unit id="no-bots-found">
-                <source>No bots found.</source>
-                <target>henüz bir bot kaydı bulunmuyor ...</target>
-            </trans-unit>
-            <trans-unit id="bots-blocked">
-                <source>Bots Blocking</source>
-                <target>Botları Engelle</target>
-            </trans-unit>
-            <trans-unit id="add-bot">
-                <source>Add Bot</source>
-                <target>Bot Ekle</target>
-            </trans-unit>
-            <trans-unit id="name-bot">
-                <source>Name</source>
-                <target>Ad</target>
-            </trans-unit>
-            <trans-unit id="bot-has-been-added">
-                <source>Bot has been added.</source>
-                <target>Bot Eklendi</target>
-            </trans-unit>
-            <trans-unit id="bot-has-been-deleted">
-                <source>Bot has been deleted.</source>
-                <target>Bot Silindi</target>
-            </trans-unit>
-            <trans-unit id="bot-name">
-                <source>Bot Name</source>
-                <target>Bot Adı</target>
-            </trans-unit>
-            <trans-unit id="basic-authentication">
-                <source>Basic Authentication</source>
-                <target>Temel Kimlik Doğrulaması</target>
-            </trans-unit>
-            <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
-                <source>List of IPs to bypassing the basic authentication, comma separated.</source>
-                <target>temel kimlik doğrulamasını pas geçecek ip adreslerini virgülle ayırarak buraya yazın</target>
-            </trans-unit>
-            <trans-unit id="whitelisted-ips">
-                <source>Whitelisted IPs</source>
-                <target>Güvenilir IP Adresleri</target>
-            </trans-unit>
-            <trans-unit id="allow-traffic-from-cloudflare-only">
-                <source>Allow traffic from Cloudflare only</source>
-                <target>Sadece CloudFlare'dan Gelen Trafiğe İzin Ver</target>
-            </trans-unit>
-            <trans-unit id="the-name-servers-must-point-to-cloudflare">
-                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
-                <target>ad sunucuları cloudflare'a yönlendirilmiş olmalı ve dns kayıtlarınız için proxy etkinleştirilmelidir</target>
-            </trans-unit>
-            <trans-unit id="ssh-users">
-                <source>SSH Users</source>
-                <target>SSH Kullanıcıları</target>
-            </trans-unit>
-            <trans-unit id="home-directory">
-                <source>Home Directory</source>
-                <target>Giriş Dizini</target>
-            </trans-unit>
-            <trans-unit id="ssh-user">
-                <source>SSH User</source>
-                <target>SSH Kullanıcısı</target>
-            </trans-unit>
-            <trans-unit id="new-ssh-user">
-                <source>New SSH User</source>
-                <target>Yeni SSH Kullanıcısı</target>
-            </trans-unit>
-            <trans-unit id="user-has-been-saved">
-                <source>User has been saved.</source>
-                <target>Kullanıcı Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="ftp-user">
-                <source>FTP User</source>
-                <target>FTP Kullanıcısı</target>
-            </trans-unit>
-            <trans-unit id="ftp-users">
-                <source>FTP Users</source>
-                <target>FTP Kullanıcıları</target>
-            </trans-unit>
-            <trans-unit id="new-ftp-user">
-                <source>New FTP User</source>
-                <target>Yeni FTP Kullanıcısı</target>
-            </trans-unit>
-            <trans-unit id="add-cron-job">
-                <source>Add Cron Job</source>
-                <target>Zamanlanmış Görev Ekle</target>
-            </trans-unit>
-            <trans-unit id="no-cron-jobs-found">
-                <source>No cron jobs found.</source>
-                <target>henüz zamanlanmış bir görev bulunmuyor ...</target>
-            </trans-unit>
-            <trans-unit id="new-cron-job">
-                <source>New Cron Job</source>
-                <target>Yeni Zamanlanmış Görev</target>
-            </trans-unit>
-            <trans-unit id="every-minute">
-                <source>Every minute</source>
-                <target>Dakikada Bir</target>
-            </trans-unit>
-            <trans-unit id="every-5-minutes">
-                <source>Every 5 minutes</source>
-                <target>5 Dakikada Bir</target>
-            </trans-unit>
-            <trans-unit id="once-an-hour">
-                <source>Once an hour</source>
-                <target>Saatte Bir</target>
-            </trans-unit>
-            <trans-unit id="every-3-hours">
-                <source>Every 3 hours</source>
-                <target>3 Saatte Bir</target>
-            </trans-unit>
-            <trans-unit id="once-a-day">
-                <source>Once a day (At 00:00)</source>
-                <target>Günde Bir Kez (00:00)</target>
-            </trans-unit>
-            <trans-unit id="every-day-at-4am">
-                <source>Every day at 4 a.m.</source>
-                <target>Her Sabah 4'te</target>
-            </trans-unit>
-            <trans-unit id="once-a-week">
-                <source>Once a week (At 00:00 on Sunday)</source>
-                <target>Haftada Bir Kez (pazar günü saat 00:00'da)</target>
-            </trans-unit>
-            <trans-unit id="once-a-month">
-                <source>Once a month (At 00:00 on day-of-month 1)</source>
-                <target>Ayda Bir Kez (ayın ilk günü saat 00:00'da)</target>
-            </trans-unit>
-            <trans-unit id="template">
-                <source>Template</source>
-                <target>Şablon</target>
-            </trans-unit>
-            <trans-unit id="minute">
-                <source>Minute</source>
-                <target>Dakika</target>
-            </trans-unit>
-            <trans-unit id="hour">
-                <source>Hour</source>
-                <target>Saat</target>
-            </trans-unit>
-            <trans-unit id="day">
-                <source>Day</source>
-                <target>Gün</target>
-            </trans-unit>
-            <trans-unit id="month">
-                <source>Month</source>
-                <target>Ay</target>
-            </trans-unit>
-            <trans-unit id="weekday">
-                <source>Weekday</source>
-                <target>Hafta</target>
-            </trans-unit>
-            <trans-unit id="cron-job-has-been-added">
-                <source>Cron Job has been added.</source>
-                <target>Zamanlanmış Görev Eklendi</target>
-            </trans-unit>
-            <trans-unit id="cron-job-has-been-deleted">
-                <source>Cron Job has been deleted.</source>
-                <target>Zamanlanmış Görev Silindi</target>
-            </trans-unit>
-            <trans-unit id="cron-job-has-been-saved">
-                <source>Cron Job has been saved.</source>
-                <target>Zamanlanmış Görev Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="schedule">
-                <source>Schedule</source>
-                <target>Zamanlama</target>
-            </trans-unit>
-            <trans-unit id="command">
-                <source>Command</source>
-                <target>Komut</target>
-            </trans-unit>
-            <trans-unit id="update">
-                <source>Update</source>
-                <target>Güncelle</target>
-            </trans-unit>
-            <trans-unit id="page-speed">
-                <source>PageSpeed</source>
-                <target>PageSpeed Kullan</target>
-            </trans-unit>
-            <trans-unit id="purge-cache">
-                <source>Purge Cache</source>
-                <target>Önbelleği Temizle</target>
-            </trans-unit>
-            <trans-unit id="page-speed-settings-are-not-valid">
-                <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
-                <target>PageSpeed Yapılandırması Geçersiz! - Hata Mesajı: %errorMessage%</target>
-            </trans-unit>
-            <trans-unit id="page-speed-settings-have-been-saved">
-                <source>Page Speed Settings have been saved.</source>
-                <target>Page Speed Ayarları Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="page-speed-cache-have-been-purged">
-                <source>Page Speed Cache has been purged.</source>
-                <target>Page Speed Önbelleği Temizlendi</target>
-            </trans-unit>
-            <trans-unit id="what-kind-of-site-would-you-like-to-create">
-                <source>What kind of site would you like to create?</source>
-                <target>Nasıl Bir Site Oluşturmak İstersiniz ?</target>
-            </trans-unit>
-            <trans-unit id="create-a-wordpress-site">
-                <source>Create a WordPress Site</source>
-                <target>WordPress Sitesi Oluştur</target>
-            </trans-unit>
-            <trans-unit id="create-a-php-site">
-                <source>Create a PHP Site</source>
-                <target>PHP Sitesi Oluştur</target>
-            </trans-unit>
-            <trans-unit id="create-a-nodejs-site">
-                <source>Create a Node.js Site</source>
-                <target>Node.js Sitesi Oluştur</target>
-            </trans-unit>
-            <trans-unit id="create-a-static-html-site">
-                <source>Create a Static HTML Site</source>
-                <target>Statik HTML Sitesi Oluştur</target>
-            </trans-unit>
-            <trans-unit id="create-a-python-site">
-                <source>Create a Python Site</source>
-                <target>Python Sitesi Oluştur</target>
-            </trans-unit>
-            <trans-unit id="new-site">
-                <source>New Site</source>
-                <target>Yeni Site</target>
-            </trans-unit>
-            <trans-unit id="new-wordpress-site">
-                <source>New WordPress Site</source>
-                <target>Yeni WordPress Sitesi</target>
-            </trans-unit>
-            <trans-unit id="pre-install-wordpress">
-                <source>Pre-Install WordPress</source>
-                <target>WordPress Ön Kurulumu</target>
-            </trans-unit>
-            <trans-unit id="back">
-                <source>Back</source>
-                <target>Geri Dön</target>
-            </trans-unit>
-            <trans-unit id="site-title">
-                <source>Site Title</source>
-                <target>Site Başlığı</target>
-            </trans-unit>
-            <trans-unit id="admin-email">
-                <source>Admin E-Mail</source>
-                <target>WP E-Posta Adresi</target>
-            </trans-unit>
-            <trans-unit id="admin-user-name">
-                <source>Admin User Name</source>
-                <target>WP Kullanıcı Adı</target>
-            </trans-unit>
-            <trans-unit id="admin-password">
-                <source>Admin Password</source>
-                <target>WP Kullanıcı Parolası</target>
-            </trans-unit>
-            <trans-unit id="admin-url">
-                <source>Admin Url</source>
-                <target>WP Yönetim Paneli</target>
-            </trans-unit>
-            <trans-unit id="multisite">
-                <source>Multisite</source>
-                <target>Çoklu Site Kullanımı</target>
-            </trans-unit>
-            <trans-unit id="vhost-template-does-not-exist">
-                <source>Vhost Template %vhostTemplate% does not exist.</source>
-                <target>vhost şablonu %vhostTemplate% bulunamadı</target>
-            </trans-unit>
-            <trans-unit id="wordpress-site-has-been-created">
-                <source>WordPress Site has been created!</source>
-                <target>WordPress Sitesi Oluşturuldu</target>
-            </trans-unit>
-            <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
-                <source>Copy the credentials for your created WordPress site.</source>
-                <target>oluşturduğunuz WordPress sitesinin aşağıda yazılı kimlik bilgilerini kopyalayın !</target>
-            </trans-unit>
-            <trans-unit id="creating">
-                <source>Creating</source>
-                <target>Oluşturuluyor </target>
-            </trans-unit>
-            <trans-unit id="saving">
-                <source>Saving</source>
-                <target>Kaydediliyor </target>
-            </trans-unit>
-            <trans-unit id="new-php-site">
-                <source>New PHP Site</source>
-                <target>Yeni PHP Sitesi</target>
-            </trans-unit>
-            <trans-unit id="the-main-ssh-user-for-the-site">
-                <source>The main SSH User for the site.</source>
-                <target>sitenin ana ssh kullanıcısı</target>
-            </trans-unit>
-            <trans-unit id="site-has-been-created">
-                <source>Site has been created.</source>
-                <target>Site Oluşturuldu</target>
-            </trans-unit>
-            <trans-unit id="new-static-html-site">
-                <source>New Static HTML Site</source>
-                <target>Yeni Statik HTML Sitesi</target>
-            </trans-unit>
-            <trans-unit id="new-nodejs-site">
-                <source>New Node.js Site</source>
-                <target>Yeni Node.js Sitesi</target>
-            </trans-unit>
-            <trans-unit id="nodejs-version">
-                <source>Node.js Version</source>
-                <target>Node.js Sürümü</target>
-            </trans-unit>
-            <trans-unit id="app-port">
-                <source>App Port</source>
-                <target>Uygulama Portu</target>
-            </trans-unit>
-            <trans-unit id="nodejs-settings">
-                <source>Node.js Settings</source>
-                <target>Node.js Ayarları</target>
-            </trans-unit>
-            <trans-unit id="nodejs-settings-have-been-saved">
-                <source>Node.js Settings have been saved.</source>
-                <target>Node.js Ayarları Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="new-python-site">
-                <source>New Python Site</source>
-                <target>Yeni Python Sitesi</target>
-            </trans-unit>
-            <trans-unit id="python-version">
-                <source>Python Version</source>
-                <target>Python Sürümü</target>
-            </trans-unit>
-            <trans-unit id="is-another-version-needed">
-                <source>Is another version needed?</source>
-                <target>başka bir sürüm gerekiyorsa</target>
-            </trans-unit>
-            <trans-unit id="check-out-the-docs">
-                <source>Check out the docs.</source>
-                <target>buraya tıklayın</target>
-            </trans-unit>
-            <trans-unit id="python-settings">
-                <source>Python Settings</source>
-                <target>Python Ayarları</target>
-            </trans-unit>
-            <trans-unit id="python-settings-have-been-saved">
-                <source>Python Settings have been saved.</source>
-                <target>Python Ayarları Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="operating-system">
-                <source>Operating System</source>
-                <target>İşletim Sistemi</target>
-            </trans-unit>
-            <trans-unit id="cloud">
-                <source>Cloud</source>
-                <target>Bulut Sunucu</target>
-            </trans-unit>
-            <trans-unit id="region">
-                <source>Region</source>
-                <target>Bölge</target>
-            </trans-unit>
-            <trans-unit id="droplet-id">
-                <source>Droplet ID</source>
-                <target>Droplet ID</target>
-            </trans-unit>
-            <trans-unit id="instance-id">
-                <source>Instance ID</source>
-                <target>Sunucu ID</target>
-            </trans-unit>
-            <trans-unit id="monitoring">
-                <source>Monitoring</source>
-                <target>Sistem Durumu</target>
-            </trans-unit>
-            <trans-unit id="last-30-minutes">
-                <source>Last 30 Minutes</source>
-                <target>Son 30 Dakika</target>
-            </trans-unit>
-            <trans-unit id="last-hour">
-                <source>Last Hour</source>
-                <target>Son 1 Saat</target>
-            </trans-unit>
-            <trans-unit id="last-3-hours">
-                <source>Last 3 Hours</source>
-                <target>Son 3 Saat</target>
-            </trans-unit>
-            <trans-unit id="last-6-hours">
-                <source>Last 6 Hours</source>
-                <target>Son 6 Saat</target>
-            </trans-unit>
-            <trans-unit id="last-12-hours">
-                <source>Last 12 Hours</source>
-                <target>Son 12 Saat</target>
-            </trans-unit>
-            <trans-unit id="1-minute">
-                <source>1 Minute</source>
-                <target>1 Dakika</target>
-            </trans-unit>
-            <trans-unit id="5-minutes">
-                <source>5 Minutes</source>
-                <target>5 Dakika</target>
-            </trans-unit>
-            <trans-unit id="15-minutes">
-                <source>15 Minutes</source>
-                <target>15 Dakika</target>
-            </trans-unit>
-            <trans-unit id="cpu-usage">
-                <source>CPU Usage</source>
-                <target>İşlemci Kullanımı</target>
-            </trans-unit>
-            <trans-unit id="disk-usage">
-                <source>Disk Usage</source>
-                <target>Disk Kullanımı</target>
-            </trans-unit>
-            <trans-unit id="memory-usage">
-                <source>Memory Usage</source>
-                <target>Bellek Kullanımı</target>
-            </trans-unit>
-            <trans-unit id="load-average">
-                <source>Load Average</source>
-                <target>Ortalama Yük</target>
-            </trans-unit>
-            <trans-unit id="remote-backup">
-                <source>Remote Backup</source>
-                <target>Uzaktan Yedekleme</target>
-            </trans-unit>
-            <trans-unit id="storage-provider">
-                <source>Storage Provider</source>
-                <target>Depolama Sağlayıcısı</target>
-            </trans-unit>
-            <trans-unit id="select-storage-provider">
-                <source>Select Storage Provider</source>
-                <target>Depolama Sağlayıcısını Seçin</target>
-            </trans-unit>
-            <trans-unit id="sftp">
-                <source>SFTP</source>
-                <target>SFTP</target>
-            </trans-unit>
-            <trans-unit id="custom-rclone-config">
-                <source>Custom Rclone Config</source>
-                <target>Özel Rclone Yapılandırması</target>
-            </trans-unit>
-            <trans-unit id="continue">
-                <source>Continue</source>
-                <target>Devam Et</target>
-            </trans-unit>
-            <trans-unit id="enable-remote-backup">
-                <source>Enable Remote Backup</source>
-                <target>Uzaktan Yedeklemeyi Etkinleştir</target>
-            </trans-unit>
-            <trans-unit id="daily">
-                <source>Daily</source>
-                <target>Her Gün</target>
-            </trans-unit>
-            <trans-unit id="time">
-                <source>Time</source>
-                <target>Saat</target>
-            </trans-unit>
-            <trans-unit id="bucket">
-                <source>Bucket</source>
-                <target>Dizin</target>
-            </trans-unit>
-            <trans-unit id="bucket-name">
-                <source>Bucket Name</source>
-                <target>Dizin Adı</target>
-            </trans-unit>
-            <trans-unit id="storage-directory">
-                <source>Storage Directory</source>
-                <target>Depolama Dizini</target>
-            </trans-unit>
-            <trans-unit id="where-to-store-backups-relative-to-the-root">
-                <source>Where to store backups relative to the root.</source>
-                <target>yedeklerin kök dizine göre depolanacağı yer</target>
-            </trans-unit>
-            <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
-                <source>Leave blank to continue using the existing secret access key.</source>
-                <target>geçerli gizli erişim anahtarını kullanmaya devam etmek için boş bırakın</target>
-            </trans-unit>
-            <trans-unit id="excludes">
-                <source>Excludes</source>
-                <target>Hariç Tutulacaklar</target>
-            </trans-unit>
-            <trans-unit id="remote-backup-settings-have-been-saved">
-                <source>Remote Backup Settings have been saved.</source>
-                <target>Uzaktan Yedekleme Ayarları Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="remote-backup-settings-have-been-deleted">
-                <source>Remote Backup Settings have been deleted.</source>
-                <target>Uzaktan Yedekleme Ayarları Silindi</target>
-            </trans-unit>
-            <trans-unit id="access-key">
-                <source>Access Key</source>
-                <target>Erişim Anahtarı</target>
-            </trans-unit>
-            <trans-unit id="secret-access-key">
-                <source>Secret Access Key</source>
-                <target>Gizli Erişim Anahtarı</target>
-            </trans-unit>
-            <trans-unit id="your-google-drive-account-email-address">
-                <source>Your google drive account email address.</source>
-                <target>doogle drive hesabınızda kullandığınız e-posta adresi</target>
-            </trans-unit>
-            <trans-unit id="service-account">
-                <source>Service Account</source>
-                <target>Servis Hesabı</target>
-            </trans-unit>
-            <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
-                <source>Leave blank to continue using the existing service account.</source>
-                <target>geçerli servis hesabını kullanmaya devam etmek için boş bırakın</target>
-            </trans-unit>
-            <trans-unit id="request-access-code">
-                <source>Request Access Code</source>
-                <target>Erişim Kodu Talep Et</target>
-            </trans-unit>
-            <trans-unit id="access-code">
-                <source>Access Code</source>
-                <target>Erişim Kodu</target>
-            </trans-unit>
-            <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
-                <source>Click on the button and paste the access code into the next field.</source>
-                <target>butona tıklayın ve erişim kodunu bir sonraki alana yapıştırın</target>
-            </trans-unit>
-            <trans-unit id="create-backup">
-                <source>Create Backup</source>
-                <target>Yedek Oluştur</target>
-            </trans-unit>
-            <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
-                <source>The backup will be started in the background shortly.</source>
-                <target>yedekleme kısa süre içinde arka planda başlatılacak</target>
-            </trans-unit>
-            <trans-unit id="authentication-method">
-                <source>Authentication Method</source>
-                <target>Kimlik Doğrulama Yöntemi</target>
-            </trans-unit>
-            <trans-unit id="key">
-                <source>Key</source>
-                <target>Key</target>
-            </trans-unit>
-            <trans-unit id="remote-server-path">
-                <source>Remote Server Path</source>
-                <target>Uzak Sunucu Yolu</target>
-            </trans-unit>
-            <trans-unit id="private-key-path">
-                <source>Private Key Path</source>
-                <target>Private Key Yolu</target>
-            </trans-unit>
-            <trans-unit id="space-name">
-                <source>Space Name</source>
-                <target>Alan Adı</target>
-            </trans-unit>
-            <trans-unit id="space-endpoint">
-                <source>Space Endpoint</source>
-                <target>Alan Uç Noktası</target>
-            </trans-unit>
-            <trans-unit id="format-for-s3-compatible-endpoints">
-                <source>Format for S3 compatible endpoints</source>
-                <target>s3 uyumlu uç noktaların biçimi</target>
-            </trans-unit>
-            <trans-unit id="varnish-cache">
-                <source>Varnish Cache</source>
-                <target>Varnish Önbelleği</target>
-            </trans-unit>
-            <trans-unit id="varnish-server">
-                <source>Varnish Server</source>
-                <target>Varnish Sunucusu</target>
-            </trans-unit>
-            <trans-unit id="cache-lifetime">
-                <source>Cache Lifetime</source>
-                <target>Önbellek Kullanım Süresi</target>
-            </trans-unit>
-            <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
-                <source>Cache Lifetime in seconds before being refreshed.</source>
-                <target>yenilenmeden önce saniye cinsinden önbellek süresi</target>
-            </trans-unit>
-            <trans-unit id="cache-tag-prefix">
-                <source>Cache Tag Prefix</source>
-                <target>Önbellek Etiketinin Öneki</target>
-            </trans-unit>
-            <trans-unit id="excluded-params">
-                <source>Excluded Params</source>
-                <target>Hariç Tutulan Parametreler</target>
-            </trans-unit>
-            <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
-                <source>List of GET parameters, separated by a comma, to disable caching.</source>
-                <target>önbelleğe alınmayacak virgülle ayrılmış get parametrelerinin listesi</target>
-            </trans-unit>
-            <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
-                <source>Urls and files that Varnish Cache shouldn't cache.</source>
-                <target>önbelleğe alınmayacak url ve dosyaların listesi</target>
-            </trans-unit>
-            <trans-unit id="varnish-cache-settings-have-been-saved">
-                <source>Varnish Cache Settings have been saved.</source>
-                <target>Varnish Önbellek Ayarları Kaydedildi</target>
-            </trans-unit>
-            <trans-unit id="purge-entire-cache">
-                <source>Purge Entire Cache</source>
-                <target>Tüm Önbelleği Temizle</target>
-            </trans-unit>
-            <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
-                <source>You can purge single urls or tags separated by comma.</source>
-                <target>tek url'leri veya virgülle ayrılmış etiketleri temizleyebilirsiniz</target>
-            </trans-unit>
-            <trans-unit id="varnish-cache-has-been-purged">
-                <source>Varnish Cache has been purged.</source>
-                <target>Varnish Önbelleği Temizlendi</target>
-            </trans-unit>
-            <trans-unit id="create-a-reverse-proxy">
-                <source>Create a Reverse Proxy</source>
-                <target>Ters Proxy Oluştur</target>
-            </trans-unit>
-            <trans-unit id="new-reverse-proxy">
-                <source>New Reverse Proxy</source>
-                <target>Yeni Ters Proxy</target>
-            </trans-unit>
-            <trans-unit id="reverse-proxy-url">
-                <source>Reverse Proxy Url</source>
-                <target>Ters Proxy URL</target>
-            </trans-unit>
-            <trans-unit id="reverse-proxy-has-been-created">
-                <source>Reverse Proxy has been created.</source>
-                <target>Ters Proxy Oluşturuldu</target>
-            </trans-unit>
-            <trans-unit id="reverse-proxy-settings">
-                <source>Reverse Proxy Settings</source>
-                <target>Ters Proxy Ayarları</target>
-            </trans-unit>
-            <trans-unit id="reverse-proxy-settings-have-been-saved">
-                <source>Reverse Proxy Settings have been saved.</source>
-                <target>Ters Proxy Ayarları Kaydedildi</target>
-            </trans-unit>
-        </body>
-    </file>
-</xliff>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <ns0:file source-language="en" target-language="tr" datatype="plaintext" original="file.ext">
+        <ns0:body>
+            <ns0:trans-unit id="yes">
+                <ns0:source>Yes</ns0:source>
+                <ns0:target>Evet</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="no">
+                <ns0:source>No</ns0:source>
+                <ns0:target>Hayır</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="all">
+                <ns0:source>All</ns0:source>
+                <ns0:target>Tümü</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="support">
+                <ns0:source>Support</ns0:source>
+                <ns0:target>Destek</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="click-to-copy">
+                <ns0:source>Click to Copy</ns0:source>
+                <ns0:target>Kopyalamak için tıklayın</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="copied-to-clipboard">
+                <ns0:source>Copied to Clipboard</ns0:source>
+                <ns0:target>Panoya kopyalandı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="loading">
+                <ns0:source>Loading</ns0:source>
+                <ns0:target>Yükleniyor</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="blog">
+                <ns0:source>Blog</ns0:source>
+                <ns0:target>Blog</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="contact">
+                <ns0:source>Contact</ns0:source>
+                <ns0:target>İletişim</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="docs">
+                <ns0:source>Docs</ns0:source>
+                <ns0:target>Dokümanlar</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="update-available">
+                <ns0:source>Update available</ns0:source>
+                <ns0:target>Yeni güncelleme var</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="issues">
+                <ns0:source>Issues</ns0:source>
+                <ns0:target>Sorunlar</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="submit">
+                <ns0:source>Submit</ns0:source>
+                <ns0:target>Gönder</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="site">
+                <ns0:source>Site</ns0:source>
+                <ns0:target>Site</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="sites">
+                <ns0:source>Sites</ns0:source>
+                <ns0:target>Siteler</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-german">
+                <ns0:source>German</ns0:source>
+                <ns0:target>Almanca</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-czech">
+                <ns0:source>Czech</ns0:source>
+                <ns0:target>Çekçe</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-danish">
+                <ns0:source>Danish</ns0:source>
+                <ns0:target>Danca</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-bosnian">
+                <ns0:source>Bosnian</ns0:source>
+                <ns0:target>Boşnakça</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-bulgarian">
+                <ns0:source>Bulgarian</ns0:source>
+                <ns0:target>Bulgarca</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-english">
+                <ns0:source>English</ns0:source>
+                <ns0:target>İngilizce</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-french">
+                <ns0:source>French</ns0:source>
+                <ns0:target>Fransızca</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-korean">
+                <ns0:source>Korean</ns0:source>
+                <ns0:target>Korece</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-hebrew">
+                <ns0:source>Hebrew</ns0:source>
+                <ns0:target>İbranice</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-hungarian">
+                <ns0:source>Hungarian</ns0:source>
+                <ns0:target>Macarca</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-dutch">
+                <ns0:source>Dutch</ns0:source>
+                <ns0:target>Felemenkçe</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-italian">
+                <ns0:source>Italian</ns0:source>
+                <ns0:target>İtalyanca</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-japanese">
+                <ns0:source>Japanese</ns0:source>
+                <ns0:target>Japonca</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-spanish">
+                <ns0:source>Spanish</ns0:source>
+                <ns0:target>İspanyolca</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-persian">
+                <ns0:source>Persian</ns0:source>
+                <ns0:target>Farsça</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-polish">
+                <ns0:source>Polish</ns0:source>
+                <ns0:target>Lehçe</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-portuguese">
+                <ns0:source>Portuguese</ns0:source>
+                <ns0:target>Portekizce</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-portuguese-brasil">
+                <ns0:source>Portuguese (Brasil)</ns0:source>
+                <ns0:target>Portekizce (brezilya)</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-greek">
+                <ns0:source>Greek</ns0:source>
+                <ns0:target>Yunanca</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-serbian">
+                <ns0:source>Serbian</ns0:source>
+                <ns0:target>Sırpça</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-georgian">
+                <ns0:source>Georgian</ns0:source>
+                <ns0:target>Azerice</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-lithuania">
+                <ns0:source>Lithuanian</ns0:source>
+                <ns0:target>Litvanyaca</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-indonesian">
+                <ns0:source>Indonesian</ns0:source>
+                <ns0:target>Endonezce</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-romanian">
+                <ns0:source>Romanian</ns0:source>
+                <ns0:target>Rumence</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-slovak">
+                <ns0:source>Slovak</ns0:source>
+                <ns0:target>Slovakça</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-russian">
+                <ns0:source>Russian</ns0:source>
+                <ns0:target>Rusça</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-thai">
+                <ns0:source>Thai</ns0:source>
+                <ns0:target>Tayca</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-turkish">
+                <ns0:source>Turkish</ns0:source>
+                <ns0:target>Türkçe</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-ukrainian">
+                <ns0:source>Ukrainian</ns0:source>
+                <ns0:target>Ukraynaca</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-arabic">
+                <ns0:source>Arabic</ns0:source>
+                <ns0:target>Arapça</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-vietnamese">
+                <ns0:source>Vietnamese</ns0:source>
+                <ns0:target>Vietnamca</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-chinese-simplified">
+                <ns0:source>Chinese (Simplified)</ns0:source>
+                <ns0:target>Çince (basitleştirilmiş)</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="locale-chinese-taiwan">
+                <ns0:source>Chinese (Taiwan)</ns0:source>
+                <ns0:target>Çince (tayvan)</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ipv4-public-ip">
+                <ns0:source>IPv4 Public IP</ns0:source>
+                <ns0:target>IPv4 adresi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ipv6-public-ip">
+                <ns0:source>IPv6 Public IP</ns0:source>
+                <ns0:target>IPv6 adresi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="os">
+                <ns0:source>OS</ns0:source>
+                <ns0:target>İşletim sistemi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="hostname">
+                <ns0:source>Hostname</ns0:source>
+                <ns0:target>Sunucu adı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="cpu">
+                <ns0:source>CPU</ns0:source>
+                <ns0:target>İşlemci</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="cores">
+                <ns0:source>Cores</ns0:source>
+                <ns0:target>Çekirdek</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="memory">
+                <ns0:source>Memory</ns0:source>
+                <ns0:target>Bellek</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="user-name">
+                <ns0:source>User Name</ns0:source>
+                <ns0:target>Kullanıcı adı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="password">
+                <ns0:source>Password</ns0:source>
+                <ns0:target>Parola</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="login">
+                <ns0:source>Log In</ns0:source>
+                <ns0:target>Giriş yap</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="settings">
+                <ns0:source>Settings</ns0:source>
+                <ns0:target>Ayarlar</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="logout">
+                <ns0:source>Logout</ns0:source>
+                <ns0:target>Çıkış yap</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="language">
+                <ns0:source>Language</ns0:source>
+                <ns0:target>Dil</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="firstName">
+                <ns0:source>First Name</ns0:source>
+                <ns0:target>Ad</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="lastName">
+                <ns0:source>Last Name</ns0:source>
+                <ns0:target>Soyad</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="email">
+                <ns0:source>E-Mail</ns0:source>
+                <ns0:target>E-posta</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="timezone">
+                <ns0:source>Timezone</ns0:source>
+                <ns0:target>Saat dilimi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="generate-new-password">
+                <ns0:source>Generate new password</ns0:source>
+                <ns0:target>Yeni parola oluştur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="create-user-button">
+                <ns0:source>Create User</ns0:source>
+                <ns0:target>Kullanıcı oluştur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="license-terms-acknowledge">
+                <ns0:source>I agree to the license terms and acknowledge the privacy policy.</ns0:source>
+                <ns0:target>&lt;a href="https://www.cloudpanel.io/license-terms/" target="_blank"&gt;lisans koşullarını&lt;/a&gt; ve &lt;a href="https://www.cloudpanel.io/privacy-policy/" target="_blank"&gt;gizlilik politikasını&lt;/a&gt; kabul ediyorum</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="an-error-has-occured">
+                <ns0:source>An error has occurred, error message: %errorMessage%</ns0:source>
+                <ns0:target>Bir hata oluştu! hata mesajı: %errormessage%</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="admin-user-creation">
+                <ns0:source>Admin User Creation</ns0:source>
+                <ns0:target>Yönetici kullanıcısı oluştur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="admin-area">
+                <ns0:source>Admin Area</ns0:source>
+                <ns0:target>Yönetici alanı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="dashboard">
+                <ns0:source>Dashboard</ns0:source>
+                <ns0:target>Panel</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="account">
+                <ns0:source>Account</ns0:source>
+                <ns0:target>Hesap</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="security">
+                <ns0:source>Security</ns0:source>
+                <ns0:target>Güvenlik</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="account-saved">
+                <ns0:source>The account information has been saved.</ns0:source>
+                <ns0:target>Hesap bilgileri kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="save">
+                <ns0:source>Save</ns0:source>
+                <ns0:target>Kaydet</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="create">
+                <ns0:source>Create</ns0:source>
+                <ns0:target>Oluştur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="two-factor-authentication">
+                <ns0:source>Two-Factor Authentication</ns0:source>
+                <ns0:target>2FA doğrulama</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="two-factor-authentication-explanation">
+                <ns0:source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</ns0:source>
+                <ns0:target>2FA doğrulama, hesabınıza ekstra bir güvenlik katmanı ekler, sisteme giriş yaptığınızda, parolanıza ek olarak bir güvenlik kodu girmenizi gerektirir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="enable-two-factor-authentication">
+                <ns0:source>Enable Two-Factor Authentication</ns0:source>
+                <ns0:target>2FAdoğrulamayı etkinleştir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="connect-your-two-factor-app">
+                <ns0:source>Connect your app</ns0:source>
+                <ns0:target>Uygulamanızı bağlayın</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="using-an-authenticator-app">
+                <ns0:source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</ns0:source>
+                <ns0:target>&lt;br&gt;%googleauthenticatorlink% / %duolink% vb. kimlik doğrulama uygulamasıyla qr kodunu taratın&lt;br&gt;uygulamanızın ekranında gösterilen 6 haneli güvenlik kodunu aşağıdaki alana girin !</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="having-trouble-scanning-the-code">
+                <ns0:source>Having trouble scanning the code?</ns0:source>
+                <ns0:target>Kodu taramakta sorun yaşıyorsanız</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="try-this-instead">
+                <ns0:source>Try this instead</ns0:source>
+                <ns0:target>Buraya tıklayın</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="select-manual-entry-on-your-app">
+                <ns0:source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</ns0:source>
+                <ns0:target>Uygulamanızda manuel girişi seçin ve kullanıcı adını &lt;code&gt;%username%&lt;/code&gt; güvenlik kodunu &lt;code&gt;%secret%&lt;/code&gt; olarak giriniz !</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="two-factor-authentication-has-been-enabled">
+                <ns0:source>Two-Factor Authentication has been enabled.</ns0:source>
+                <ns0:target>2 adımlı doğrulama etkinleştirildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="disable-two-factor-authentication">
+                <ns0:source>Disable Two-Factor Authentication</ns0:source>
+                <ns0:target>2 adımlı doğrulamayı kapat</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="two-factor-authentication-has-been-disabled">
+                <ns0:source>Two-Factor Authentication has been disabled.</ns0:source>
+                <ns0:target>2 adımlı doğrulama kapatıldı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="enter-authentication-code">
+                <ns0:source>Enter authentication code</ns0:source>
+                <ns0:target>Doğrulama kodunu girin</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="back-to-sites">
+                <ns0:source>Back to Sites</ns0:source>
+                <ns0:target>Sitelere git</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="users">
+                <ns0:source>Users</ns0:source>
+                <ns0:target>Kullanıcılar</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="add-user">
+                <ns0:source>Add User</ns0:source>
+                <ns0:target>Kullanıcı ekle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="new-user">
+                <ns0:source>New User</ns0:source>
+                <ns0:target>Yeni kullanıcı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="active">
+                <ns0:source>Active</ns0:source>
+                <ns0:target>Aktif</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="not-active">
+                <ns0:source>Not Active</ns0:source>
+                <ns0:target>Pasif</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="role-admin">
+                <ns0:source>Admin</ns0:source>
+                <ns0:target>Yönetici</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="role-user">
+                <ns0:source>User</ns0:source>
+                <ns0:target>Kullanıcı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="role-site-manager">
+                <ns0:source>Site Manager</ns0:source>
+                <ns0:target>Site yöneticisi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="user-has-been-added">
+                <ns0:source>User has been added.</ns0:source>
+                <ns0:target>Kullanıcı eklendi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="user-has-been-updated">
+                <ns0:source>User has been updated.</ns0:source>
+                <ns0:target>Kullanıcı bilgisi güncellendi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="no-users-found">
+                <ns0:source>No users found.</ns0:source>
+                <ns0:target>Henüz bir kullanıcı bulunmuyor ...</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="role">
+                <ns0:source>Role</ns0:source>
+                <ns0:target>Rol</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="status">
+                <ns0:source>Status</ns0:source>
+                <ns0:target>Durum</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="delete">
+                <ns0:source>Delete</ns0:source>
+                <ns0:target>Sil</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="are-you-sure">
+                <ns0:source>Are you sure?</ns0:source>
+                <ns0:target>Bu işlemi yapmak istediğinize emin misiniz?</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="user-has-been-deleted">
+                <ns0:source>User has been deleted.</ns0:source>
+                <ns0:target>Kullanıcı silindi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="events">
+                <ns0:source>Events</ns0:source>
+                <ns0:target>Olaylar</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="no-events-found">
+                <ns0:source>No events found.</ns0:source>
+                <ns0:target>Henüz bir olay bulunmuyor ...</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="event-time">
+                <ns0:source>Event Time</ns0:source>
+                <ns0:target>Olay zamanı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="event">
+                <ns0:source>Event</ns0:source>
+                <ns0:target>Olay</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="view">
+                <ns0:source>View</ns0:source>
+                <ns0:target>Görüntüle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="notifications">
+                <ns0:source>Notifications</ns0:source>
+                <ns0:target>Bildirimler</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="no-notifications-found">
+                <ns0:source>No notifications found.</ns0:source>
+                <ns0:target>Henüz bir bildirim bulunmuyor ...</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="notifications-has-been-deleted">
+                <ns0:source>Notification has been deleted.</ns0:source>
+                <ns0:target>Bildirim silindi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="show-message">
+                <ns0:source>Show Message</ns0:source>
+                <ns0:target>Mesajı göster</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="severity">
+                <ns0:source>Severity</ns0:source>
+                <ns0:target>Önem derecesi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="date">
+                <ns0:source>Date</ns0:source>
+                <ns0:target>Tarih</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="message">
+                <ns0:source>Message</ns0:source>
+                <ns0:target>Mesaj</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="action">
+                <ns0:source>Action</ns0:source>
+                <ns0:target>İşlem</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="info">
+                <ns0:source>Info</ns0:source>
+                <ns0:target>Bilgi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="warning">
+                <ns0:source>Warning</ns0:source>
+                <ns0:target>Uyarı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="critical">
+                <ns0:source>Critical</ns0:source>
+                <ns0:target>Kritik</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="more-information">
+                <ns0:source>More Information</ns0:source>
+                <ns0:target>Detaylı bilgi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="mark-as-read">
+                <ns0:source>Mark as Read</ns0:source>
+                <ns0:target>Okundu olarak i̇şaretle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="mark-as-unread">
+                <ns0:source>Mark as Unread</ns0:source>
+                <ns0:target>Okunmadı olarak i̇şaretle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="instance">
+                <ns0:source>Instance</ns0:source>
+                <ns0:target>Sunucu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="firewall">
+                <ns0:source>Firewall</ns0:source>
+                <ns0:target>Güvenlik duvarı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="service">
+                <ns0:source>Service</ns0:source>
+                <ns0:target>Servis</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="services">
+                <ns0:source>Services</ns0:source>
+                <ns0:target>Servisler</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="rules">
+                <ns0:source>Rules</ns0:source>
+                <ns0:target>Kurallar</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="add-rule">
+                <ns0:source>Add Rule</ns0:source>
+                <ns0:target>Kural ekle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="no-rules-found">
+                <ns0:source>No rules found.</ns0:source>
+                <ns0:target>Henüz bir güvenlik kuralı bulunmuyor ...</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="add-firewall-rule">
+                <ns0:source>Add Firewall Rule</ns0:source>
+                <ns0:target>Güvenlik kuralı ekle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="rule-has-been-added">
+                <ns0:source>Rule has been added.</ns0:source>
+                <ns0:target>Güvenlik kuralı eklendi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="rule-has-been-deleted">
+                <ns0:source>Rule has been deleted.</ns0:source>
+                <ns0:target>Güvenlik kuralı silindi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="rule-type">
+                <ns0:source>Type</ns0:source>
+                <ns0:target>Tip</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="custom-tcp">
+                <ns0:source>Custom TCP</ns0:source>
+                <ns0:target>Özel TCP</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="port-range">
+                <ns0:source>Port Range</ns0:source>
+                <ns0:target>Port aralığı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ip-version">
+                <ns0:source>IP Version</ns0:source>
+                <ns0:target>Protokol</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="rule-source">
+                <ns0:source>Source</ns0:source>
+                <ns0:target>Kaynak</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="rule-source-custom">
+                <ns0:source>Custom</ns0:source>
+                <ns0:target>Özel</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="rule-source-anywhere-ipv4">
+                <ns0:source>Anywhere-IPv4</ns0:source>
+                <ns0:target>Her yerden IPv4</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="rule-source-anywhere-ipv6">
+                <ns0:source>Anywhere-IPv6</ns0:source>
+                <ns0:target>Her yerden IPv6</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="rule-source-my-ip">
+                <ns0:source>My IP</ns0:source>
+                <ns0:target>Benim IP adresim</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="rule-source-ip-or-cidr">
+                <ns0:source>IP or CIDR</ns0:source>
+                <ns0:target>IP veya cidr</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="rule-description">
+                <ns0:source>Description</ns0:source>
+                <ns0:target>Açıklama</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="actions">
+                <ns0:source>Actions</ns0:source>
+                <ns0:target>İşlem</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="edit-firewall-rule">
+                <ns0:source>Edit Firewall Rule</ns0:source>
+                <ns0:target>Güvenlik kuralını düzenle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="basic-auth">
+                <ns0:source>Basic Auth</ns0:source>
+                <ns0:target>Temel kimlik doğrulaması</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="enable-basic-auth">
+                <ns0:source>Enable Basic Auth</ns0:source>
+                <ns0:target>Temel kimlik doğrulamasını etkinleştir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="basic-auth-in-front-of-cloudpanel">
+                <ns0:source>Basic Auth in front of CloudPanel adds an extra layer of security.</ns0:source>
+                <ns0:target>Temel kimlik doğrulaması, cloudpanel için ekstra bir güvenlik katmanı ekler !</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="basic-auth-has-been-enabled">
+                <ns0:source>Basic Auth has been enabled.</ns0:source>
+                <ns0:target>Temel kimlik doğrulaması etkinleştirildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="running">
+                <ns0:source>Running</ns0:source>
+                <ns0:target>Çalışıyor</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="stopped">
+                <ns0:source>Stopped</ns0:source>
+                <ns0:target>Durduruldu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="restart">
+                <ns0:source>Restart</ns0:source>
+                <ns0:target>Yeniden başlat</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="service-will-restart-shortly">
+                <ns0:source>Service will restart shortly.</ns0:source>
+                <ns0:target>Servis kısa süre içinde yeniden başlatılacak</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="proftpd-settings">
+                <ns0:source>Proftpd Settings</ns0:source>
+                <ns0:target>Proftpd ayarları</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="masquerade-address">
+                <ns0:source>MasqueradeAddress</ns0:source>
+                <ns0:target>Maskeleme adresi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="masquerade-address-explanation">
+                <ns0:source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</ns0:source>
+                <ns0:target>Maskeleme adresi sunucunun belirtilen ip adresi veya dns ana bilgisayar adının ağ bilgilerini istemciye göstermesini sağlar</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="masquerade-address-has-been-saved">
+                <ns0:source>MasqueradeAddress has been saved.</ns0:source>
+                <ns0:target>Maskeleme adresi kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="instance-settings">
+                <ns0:source>Instance Settings</ns0:source>
+                <ns0:target>Sunucu ayarları</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="timezone-has-been-saved">
+                <ns0:source>Timezone has been saved.</ns0:source>
+                <ns0:target>Saat dilimi kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="reboot">
+                <ns0:source>Reboot</ns0:source>
+                <ns0:target>Yeniden başlat</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="instance-will-reboot-shortly">
+                <ns0:source>Instance will reboot shortly.</ns0:source>
+                <ns0:target>Sanal sunucu kısa süre içinde yeniden başlatılacak</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
+                <ns0:source>It's recommended to reboot the instance after changing the timezone.</ns0:source>
+                <ns0:target>Saat dilimini değiştirdikten sonra sanal sunucuyu yeniden başlatmanız önerilir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="general">
+                <ns0:source>General</ns0:source>
+                <ns0:target>Genel</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="database-servers">
+                <ns0:source>Database Servers</ns0:source>
+                <ns0:target>Veritabanı sunucusu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="add-database-server">
+                <ns0:source>Add Database Server</ns0:source>
+                <ns0:target>Veritabanı sunucusu ekle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="edit-database-server">
+                <ns0:source>Edit Database Server</ns0:source>
+                <ns0:target>Veritabanı sunucusunu düzenle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="engine">
+                <ns0:source>Engine</ns0:source>
+                <ns0:target>Makine</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="host">
+                <ns0:source>Host</ns0:source>
+                <ns0:target>Sunucu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="port">
+                <ns0:source>Port</ns0:source>
+                <ns0:target>Port</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ip-or-dns-name">
+                <ns0:source>IP or DNS Name</ns0:source>
+                <ns0:target>IP veya dns adı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="certificate">
+                <ns0:source>Certificate</ns0:source>
+                <ns0:target>Sertifika</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="set-active">
+                <ns0:source>Set Active</ns0:source>
+                <ns0:target>Aktifleştir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="database-server-has-been-added">
+                <ns0:source>Database Server has been added.</ns0:source>
+                <ns0:target>Veritabanı sunucusu eklendi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="database-server-has-been-updated">
+                <ns0:source>Database Server has been updated.</ns0:source>
+                <ns0:target>Veritabanı sunucusu güncellendi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="database-server-has-been-deleted">
+                <ns0:source>Database Server has been deleted.</ns0:source>
+                <ns0:target>Veritabanı sunucusu silindi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="database-server-has-been-changed">
+                <ns0:source>Database Server has been changed.</ns0:source>
+                <ns0:target>Veritabanı sunucusu değiştirildi.</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="custom-domain">
+                <ns0:source>Custom Domain</ns0:source>
+                <ns0:target>Özel alan adı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="tls-certificate">
+                <ns0:source>TLS Certificate</ns0:source>
+                <ns0:target>Tls sertifikası</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="lets-encrypt-http-challenge">
+                <ns0:source>Let's Encrypt HTTP Challenge</ns0:source>
+                <ns0:target>Let's encrypt http sorgusu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="lets-encrypt-dns-challenge">
+                <ns0:source>Let's Encrypt DNS Challenge</ns0:source>
+                <ns0:target>Let's encrypt dns sorgusu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="backups">
+                <ns0:source>Backups</ns0:source>
+                <ns0:target>Yedekler</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="images">
+                <ns0:source>Images</ns0:source>
+                <ns0:target>Yedek</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="aws-credentials">
+                <ns0:source>AWS Credentials</ns0:source>
+                <ns0:target>AWS kimlik bilgileri</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="aws-access-key">
+                <ns0:source>AWS Access Key</ns0:source>
+                <ns0:target>AWS erişim anahtarı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="aws-secret-access-key">
+                <ns0:source>AWS Secret Access Key</ns0:source>
+                <ns0:target>AWS gizli erişim anahtarı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="aws-access-keys-are-not-valid">
+                <ns0:source>AWS Access Keys are not valid.</ns0:source>
+                <ns0:target>AWS erişim anahtarı geçersiz</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="aws-access-keys-have-been-saved">
+                <ns0:source>AWS Access Keys have been saved.</ns0:source>
+                <ns0:target>AWS erişim anahtarı kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="aws-images-settings">
+                <ns0:source>Images Settings</ns0:source>
+                <ns0:target>Yedekleme ayarları</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="aws-enable-automatic-images">
+                <ns0:source>Enable Automatic Images</ns0:source>
+                <ns0:target>Otomatik yedeklemeyi etkinleştir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="frequency">
+                <ns0:source>Frequency</ns0:source>
+                <ns0:target>Sıklık</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="retention-period-days">
+                <ns0:source>Retention Period (Days)</ns0:source>
+                <ns0:target>Saklama süresi (gün)</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="images-settings-have-been-saved">
+                <ns0:source>Images Settings have been saved.</ns0:source>
+                <ns0:target>Yedekleme ayarları kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="every-hour">
+                <ns0:source>Every Hour</ns0:source>
+                <ns0:target>Saatte bir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="every-three-hours">
+                <ns0:source>Every Three Hours</ns0:source>
+                <ns0:target>3 saatte bir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="every-six-hours">
+                <ns0:source>Every Six Hours</ns0:source>
+                <ns0:target>6 saatte bir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="every-twelve-hours">
+                <ns0:source>Every Twelve Hours</ns0:source>
+                <ns0:target>12 saatte bir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="once-per-day">
+                <ns0:source>Once per Day</ns0:source>
+                <ns0:target>Günde bir kez</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="create-image">
+                <ns0:source>Create Image</ns0:source>
+                <ns0:target>Yedek oluştur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="image-name">
+                <ns0:source>Image Name</ns0:source>
+                <ns0:target>Yedek adı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="no-images-found">
+                <ns0:source>No images found.</ns0:source>
+                <ns0:target>Henüz bir yedek bulunmuyor ...</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="available">
+                <ns0:source>Available</ns0:source>
+                <ns0:target>Kullanılabilir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="pending">
+                <ns0:source>Pending</ns0:source>
+                <ns0:target>Beklemede</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="failed">
+                <ns0:source>Failed</ns0:source>
+                <ns0:target>Başarısız</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="created-at">
+                <ns0:source>Created At</ns0:source>
+                <ns0:target>Oluşturulma zamanı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="image-is-being-created">
+                <ns0:source>Image is being created.</ns0:source>
+                <ns0:target>Yedek oluşturuldu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="image-is-being-deleted">
+                <ns0:source>Image is being deleted.</ns0:source>
+                <ns0:target>Yedek silindi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="access-token-is-not-valid">
+                <ns0:source>Access Token is not valid.</ns0:source>
+                <ns0:target>Access token geçersiz</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="access-token-has-been-saved">
+                <ns0:source>Access Token has been saved.</ns0:source>
+                <ns0:target>Access token kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="access-token">
+                <ns0:source>Access Token</ns0:source>
+                <ns0:target>Access token</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="snapshots">
+                <ns0:source>Snapshots</ns0:source>
+                <ns0:target>Anlık yedekler</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="snapshots-settings">
+                <ns0:source>Snapshots Settings</ns0:source>
+                <ns0:target>Anlık yedek ayarları</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="enable-automatic-snapshots">
+                <ns0:source>Enable Automatic Snapshots</ns0:source>
+                <ns0:target>Otomatik anlık yedeklemeyi etkinleştir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="create-snapshot">
+                <ns0:source>Create Snapshot</ns0:source>
+                <ns0:target>Anlık yedek oluştur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="no-snapshots-found">
+                <ns0:source>No snapshots found.</ns0:source>
+                <ns0:target>Henüz anlık bir yedek bulunmuyor ...</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="snapshot-name">
+                <ns0:source>Snapshot Name</ns0:source>
+                <ns0:target>Anlık yedek adı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="size">
+                <ns0:source>Size</ns0:source>
+                <ns0:target>Boyut</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="snapshot-is-being-created">
+                <ns0:source>Snapshot is being created.</ns0:source>
+                <ns0:target>Anlık yedek oluşturuldu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="snapshot-is-being-deleted">
+                <ns0:source>Snapshot is being deleted.</ns0:source>
+                <ns0:target>Anlık yedek silindi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="service-account-keys">
+                <ns0:source>Service Account Keys</ns0:source>
+                <ns0:target>Service account keys</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="service-account-keys-are-not-valid">
+                <ns0:source>Service Account Keys are not valid.</ns0:source>
+                <ns0:target>Service account keys geçersiz</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="service-account-keys-have-been-saved">
+                <ns0:source>Service Account Keys have been saved.</ns0:source>
+                <ns0:target>Service account keys kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="api-key">
+                <ns0:source>Api Key</ns0:source>
+                <ns0:target>Api key</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="api-key-is-not-valid">
+                <ns0:source>Api Key is not valid.</ns0:source>
+                <ns0:target>Api key geçersiz</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="api-key-has-been-saved">
+                <ns0:source>Api Key has been saved.</ns0:source>
+                <ns0:target>Api key kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="api-token">
+                <ns0:source>Api Token</ns0:source>
+                <ns0:target>Api token</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="api-token-is-not-valid">
+                <ns0:source>Api Token is not valid.</ns0:source>
+                <ns0:target>Api token geçersiz</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="api-token-has-been-saved">
+                <ns0:source>Api Token has been saved.</ns0:source>
+                <ns0:target>Api token kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="no-sites-found">
+                <ns0:source>No sites found.</ns0:source>
+                <ns0:target>Henüz bir site bulunmuyor.</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="add-site">
+                <ns0:source>+ Add Site</ns0:source>
+                <ns0:target>+ site ekle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="domain">
+                <ns0:source>Domain</ns0:source>
+                <ns0:target>Alan adı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="site-user">
+                <ns0:source>Site User</ns0:source>
+                <ns0:target>Site kullanıcısı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="site-user-password">
+                <ns0:source>Site User Password</ns0:source>
+                <ns0:target>Site kullanıcı parolası</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="app">
+                <ns0:source>App</ns0:source>
+                <ns0:target>Uygulama</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="manage">
+                <ns0:source>Manage</ns0:source>
+                <ns0:target>Yönet</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ip-address">
+                <ns0:source>IP Address</ns0:source>
+                <ns0:target>IP adresi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="vhost">
+                <ns0:source>Vhost</ns0:source>
+                <ns0:target>Vhost</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="databases">
+                <ns0:source>Databases</ns0:source>
+                <ns0:target>Veritabanı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ssl-tls">
+                <ns0:source>SSL/TLS</ns0:source>
+                <ns0:target>SSL/TLS</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ssh-ftp">
+                <ns0:source>SSH/FTP</ns0:source>
+                <ns0:target>SSH/FTP</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="file-manager">
+                <ns0:source>File Manager</ns0:source>
+                <ns0:target>Dosya yöneticisi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="cron-jobs">
+                <ns0:source>Cron Jobs</ns0:source>
+                <ns0:target>Görevler</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="logs">
+                <ns0:source>Logs</ns0:source>
+                <ns0:target>Günlükler</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="domain-settings">
+                <ns0:source>Domain Settings</ns0:source>
+                <ns0:target>Alan adı ayarları</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="root-directory">
+                <ns0:source>Root Directory</ns0:source>
+                <ns0:target>Kök dizin</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="domain-name">
+                <ns0:source>Domain Name</ns0:source>
+                <ns0:target>Alan adı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="application">
+                <ns0:source>Application</ns0:source>
+                <ns0:target>Uygulama</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="generic">
+                <ns0:source>Generic</ns0:source>
+                <ns0:target>Genel</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="root-directory-has-been-saved">
+                <ns0:source>Root Directory has been saved.</ns0:source>
+                <ns0:target>Kök dizin kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="php-settings">
+                <ns0:source>PHP Settings</ns0:source>
+                <ns0:target>PHP ayarları</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="php-version">
+                <ns0:source>PHP Version</ns0:source>
+                <ns0:target>PHP sürümü</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="memory-limit-explanation">
+                <ns0:source>Sets the maximum amount of memory that a script is allowed to allocate.</ns0:source>
+                <ns0:target>Bir betiğin ayırmasına izin verilebilecek belleğin azami miktarını belirler</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="max-execution-explanation">
+                <ns0:source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</ns0:source>
+                <ns0:target>Çözümleyicinin sonlandırılmadan önce bir betiğin çalışabileceği azami süreyi belirler</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="max-input-time-explanation">
+                <ns0:source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</ns0:source>
+                <ns0:target>Bir betiğin post ve get gibi girdileri çözümlemesi için gereken azami süreyi belirler</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="max-input-vars-explanation">
+                <ns0:source>Sets the limit of the number of inputs for posting forms.</ns0:source>
+                <ns0:target>Kabul edilebilecek girdi değişkenlerinin sayısı belirler</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="post-max-size-explanation">
+                <ns0:source>Maximum size of POST data that PHP will accept.</ns0:source>
+                <ns0:target>Kabul edilebilecek girdi değişkenlerinin sayısını belirler</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="upload-max-filesize-explanation">
+                <ns0:source>The maximum size of an uploaded file.</ns0:source>
+                <ns0:target>Karşıya yüklenecek dosyalar için azami boyutu belirler</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="additional-configuration-explanation">
+                <ns0:source>You can define any PHP parameters like you would define in the php.ini.</ns0:source>
+                <ns0:target>Herhangi bir php parametresini php.ini'de tanımladığınız gibi tanımlayabilirsiniz</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="additional-configuration-directives">
+                <ns0:source>Additional Configuration Directives</ns0:source>
+                <ns0:target>Ek yapılandırma yönergeleri</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="php-settings-have-been-saved">
+                <ns0:source>PHP Settings have been saved.</ns0:source>
+                <ns0:target>PHP ayarları kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="delete-site">
+                <ns0:source>Delete Site</ns0:source>
+                <ns0:target>Siteyi sil</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="deleting-a-site-will-be-permanently">
+                <ns0:source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</ns0:source>
+                <ns0:target>Siteyi silmek istediğinizde siteye ait tüm dosyalar, veritabanları, kullanıcıları ve yapılandırmaları kalıcı olarak kaldırılır ve bu işlem geri alınamaz !</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="cancel">
+                <ns0:source>Cancel</ns0:source>
+                <ns0:target>Vazgeç</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="confirm-site-deletion">
+                <ns0:source>To confirm deletion, type %domain% into the field.</ns0:source>
+                <ns0:target>Silme işlemini onaylamak için aşağıya %domain% yazın</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="site-has-been-deleted">
+                <ns0:source>Site has been deleted.</ns0:source>
+                <ns0:target>Site başarıyla silindi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="site-user-settings">
+                <ns0:source>Site User Settings</ns0:source>
+                <ns0:target>Site kullanıcısı ayarları</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="site-user-settings-have-been-saved">
+                <ns0:source>Site User Settings have been saved.</ns0:source>
+                <ns0:target>Site kullanıcısı ayarları kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ssh-keys">
+                <ns0:source>SSH Keys</ns0:source>
+                <ns0:target>SSH anahtarları</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="vhost-editor">
+                <ns0:source>Vhost Editor</ns0:source>
+                <ns0:target>Vhost düzenleyici</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="vhost-has-been-saved">
+                <ns0:source>Vhost has been saved.</ns0:source>
+                <ns0:target>Vhost kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="vhost-is-not-valid">
+                <ns0:source>Vhost is not valid, error message: %errorMessage%</ns0:source>
+                <ns0:target>Vhost yapılandırması geçersiz! - hata mesajı: %errormessage%</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="no-databases-found">
+                <ns0:source>No databases found.</ns0:source>
+                <ns0:target>Henüz bir veritabanı bulunmuyor.</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="database">
+                <ns0:source>Database</ns0:source>
+                <ns0:target>Veritabanı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="add-database">
+                <ns0:source>Add Database</ns0:source>
+                <ns0:target>Veritabanı ekle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="new-database">
+                <ns0:source>New Database</ns0:source>
+                <ns0:target>Veritabanı oluştur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="database-has-been-added">
+                <ns0:source>Database has been added.</ns0:source>
+                <ns0:target>Veritabanı eklendi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="database-has-been-deleted">
+                <ns0:source>Database has been deleted.</ns0:source>
+                <ns0:target>Veritabanı silindi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="database-users">
+                <ns0:source>Database Users</ns0:source>
+                <ns0:target>Veritabanı kullanıcısı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="add-database-user">
+                <ns0:source>Add Database User</ns0:source>
+                <ns0:target>Veritabanı kullanıcısı ekle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="no-database-users-found">
+                <ns0:source>No database users found.</ns0:source>
+                <ns0:target>Henüz bir veritabanı kullanıcısı bulunmuyor ...</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="read-and-write">
+                <ns0:source>Read and Write</ns0:source>
+                <ns0:target>Okuma ve yazma</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="read-only">
+                <ns0:source>Read Only</ns0:source>
+                <ns0:target>Sadece okuma</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="new-database-user">
+                <ns0:source>New Database User</ns0:source>
+                <ns0:target>Veritabanı kullanıcısı oluştur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="database-name">
+                <ns0:source>Database Name</ns0:source>
+                <ns0:target>Veritabanı adı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="database-user-name">
+                <ns0:source>Database User Name</ns0:source>
+                <ns0:target>Veritabanı kullanıcı adı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="database-user-password">
+                <ns0:source>Database User Password</ns0:source>
+                <ns0:target>Veritabanı kullanıcı parolası</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="permissions">
+                <ns0:source>Permissions</ns0:source>
+                <ns0:target>İzinler</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="no-database-found-create-a-database-first">
+                <ns0:source>No database found; create a database first.</ns0:source>
+                <ns0:target>Henüz bir veritabanı bulunmuyor, önce bir veritabanı oluşturmalısınız ...</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="database-user-has-been-added">
+                <ns0:source>Database User has been added.</ns0:source>
+                <ns0:target>Veritabanı kullanıcısı eklendi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="database-user-has-been-deleted">
+                <ns0:source>Database User has been deleted.</ns0:source>
+                <ns0:target>Veritabanı kullanıcısı silindi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="edit-database-user">
+                <ns0:source>Edit Database User</ns0:source>
+                <ns0:target>Veritabanı kullanıcısını düzenle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="database-user-has-been-updated">
+                <ns0:source>Database User has been updated.</ns0:source>
+                <ns0:target>Veritabanı kullanıcısı güncellendi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="certificates">
+                <ns0:source>Certificates</ns0:source>
+                <ns0:target>Sertifikalar</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="new-lets-encrypt-certificate">
+                <ns0:source>New Let's Encrypt Certificate</ns0:source>
+                <ns0:target>Yeni let's encrypt ssl sertifikası</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="import-certificate">
+                <ns0:source>Import Certificate</ns0:source>
+                <ns0:target>Sertifikayı i̇çe aktar</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="no-certificates-found">
+                <ns0:source>No certificates found.</ns0:source>
+                <ns0:target>Henüz bir sertifika bulunmuyor ...</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="self-signed">
+                <ns0:source>Self-Signed</ns0:source>
+                <ns0:target>Kendinden i̇mzalı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="imported">
+                <ns0:source>Imported</ns0:source>
+                <ns0:target>İçe aktarım tamamlandı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="domains">
+                <ns0:source>Domains</ns0:source>
+                <ns0:target>Alan adları</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="expiration-date">
+                <ns0:source>Expiration Date</ns0:source>
+                <ns0:target>Bitiş tarihi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="installed">
+                <ns0:source>Installed</ns0:source>
+                <ns0:target>Kuruldu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="private-key">
+                <ns0:source>Private Key</ns0:source>
+                <ns0:target>Özel anahtar</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="certificate-chain">
+                <ns0:source>Certificate Chain</ns0:source>
+                <ns0:target>Sertifika zinciri</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="certificate-has-been-deleted">
+                <ns0:source>Certificate has been deleted.</ns0:source>
+                <ns0:target>Sertifika silindi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="certificate-has-been-installed">
+                <ns0:source>Certificate has been installed.</ns0:source>
+                <ns0:target>Sertifika kuruldu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="install">
+                <ns0:source>Install</ns0:source>
+                <ns0:target>Kur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="import-and-install">
+                <ns0:source>Import and Install</ns0:source>
+                <ns0:target>İçe aktar ve kur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="create-and-install">
+                <ns0:source>Create and Install</ns0:source>
+                <ns0:target>Oluştur ve kur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
+                <ns0:source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</ns0:source>
+                <ns0:target>Let's encrypt SSL sertifikasını eklemek istediğiniz alan adlarını yazın</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
+                <ns0:source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</ns0:source>
+                <ns0:target>Let's encrypt SSL sertifikası oluşturmak için bu sunucuya yönlendirilmiş bir DNS kaydı gereklidir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="domain-names">
+                <ns0:source>Domain Names</ns0:source>
+                <ns0:target>Alan adları</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="add-domain">
+                <ns0:source>Add Domain</ns0:source>
+                <ns0:target>Alan adı ekle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="cloudpanel-custom-domain">
+                <ns0:source>CloudPanel Custom Domain</ns0:source>
+                <ns0:target>CloudPanel özel alan adı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="cloudpanel-custom-domain-has-been-saved">
+                <ns0:source>CloudPanel Custom Domain has been saved.</ns0:source>
+                <ns0:target>CloudPanel özel alan adı eklendi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ip-blocking">
+                <ns0:source>IP Blocking</ns0:source>
+                <ns0:target>IP adresi engelle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="add-ip">
+                <ns0:source>Add IP</ns0:source>
+                <ns0:target>IP ekle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ip">
+                <ns0:source>IP</ns0:source>
+                <ns0:target>IP adresi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="no-ips-found">
+                <ns0:source>No ips found.</ns0:source>
+                <ns0:target>Henüz engellenmiş bir IP adresi bulunmuyor ...</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="examples">
+                <ns0:source>Examples</ns0:source>
+                <ns0:target>Örnek</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="single-ip">
+                <ns0:source>Single IP</ns0:source>
+                <ns0:target>Tek bir IP adresi engellemek için</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="cidr-format">
+                <ns0:source>CIDR Format</ns0:source>
+                <ns0:target>CIDR formatında engellemek için</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ip-has-been-added">
+                <ns0:source>IP has been added.</ns0:source>
+                <ns0:target>IP adresi eklendi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ip-has-been-deleted">
+                <ns0:source>IP has been deleted.</ns0:source>
+                <ns0:target>IP adresi silindi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="no-bots-found">
+                <ns0:source>No bots found.</ns0:source>
+                <ns0:target>Henüz bir bot kaydı bulunmuyor ...</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="bots-blocked">
+                <ns0:source>Bots Blocking</ns0:source>
+                <ns0:target>Botları engelle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="add-bot">
+                <ns0:source>Add Bot</ns0:source>
+                <ns0:target>Bot ekle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="name-bot">
+                <ns0:source>Name</ns0:source>
+                <ns0:target>Ad</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="bot-has-been-added">
+                <ns0:source>Bot has been added.</ns0:source>
+                <ns0:target>Bot eklendi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="bot-has-been-deleted">
+                <ns0:source>Bot has been deleted.</ns0:source>
+                <ns0:target>Bot silindi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="bot-name">
+                <ns0:source>Bot Name</ns0:source>
+                <ns0:target>Bot adı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="basic-authentication">
+                <ns0:source>Basic Authentication</ns0:source>
+                <ns0:target>Temel kimlik doğrulaması</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
+                <ns0:source>List of IPs to bypassing the basic authentication, comma separated.</ns0:source>
+                <ns0:target>Temel kimlik doğrulamasını pas geçecek IP adreslerini virgülle ayırarak buraya yazın</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="whitelisted-ips">
+                <ns0:source>Whitelisted IPs</ns0:source>
+                <ns0:target>Güvenilir IP adresleri</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="allow-traffic-from-cloudflare-only">
+                <ns0:source>Allow traffic from Cloudflare only</ns0:source>
+                <ns0:target>Sadece Cloudflare'dan gelen trafiğe i̇zin ver</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="the-name-servers-must-point-to-cloudflare">
+                <ns0:source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</ns0:source>
+                <ns0:target>Ad sunucuları Cloudflare'a yönlendirilmiş olmalı ve DNS kayıtlarınız için Proxy etkinleştirilmelidir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ssh-users">
+                <ns0:source>SSH Users</ns0:source>
+                <ns0:target>SSH kullanıcıları</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="home-directory">
+                <ns0:source>Home Directory</ns0:source>
+                <ns0:target>Giriş dizini</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ssh-user">
+                <ns0:source>SSH User</ns0:source>
+                <ns0:target>SSH kullanıcısı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="new-ssh-user">
+                <ns0:source>New SSH User</ns0:source>
+                <ns0:target>Yeni SSH kullanıcısı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="user-has-been-saved">
+                <ns0:source>User has been saved.</ns0:source>
+                <ns0:target>Kullanıcı kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ftp-user">
+                <ns0:source>FTP User</ns0:source>
+                <ns0:target>FTP kullanıcısı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="ftp-users">
+                <ns0:source>FTP Users</ns0:source>
+                <ns0:target>FTP kullanıcıları</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="new-ftp-user">
+                <ns0:source>New FTP User</ns0:source>
+                <ns0:target>Yeni FTP kullanıcısı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="add-cron-job">
+                <ns0:source>Add Cron Job</ns0:source>
+                <ns0:target>Zamanlanmış görev ekle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="no-cron-jobs-found">
+                <ns0:source>No cron jobs found.</ns0:source>
+                <ns0:target>Henüz zamanlanmış bir görev bulunmuyor ...</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="new-cron-job">
+                <ns0:source>New Cron Job</ns0:source>
+                <ns0:target>Yeni zamanlanmış görev</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="every-minute">
+                <ns0:source>Every minute</ns0:source>
+                <ns0:target>Dakikada bir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="every-5-minutes">
+                <ns0:source>Every 5 minutes</ns0:source>
+                <ns0:target>5 dakikada bir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="once-an-hour">
+                <ns0:source>Once an hour</ns0:source>
+                <ns0:target>Saatte bir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="every-3-hours">
+                <ns0:source>Every 3 hours</ns0:source>
+                <ns0:target>3 saatte bir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="once-a-day">
+                <ns0:source>Once a day (At 00:00)</ns0:source>
+                <ns0:target>Günde bir kez (00:00)</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="every-day-at-4am">
+                <ns0:source>Every day at 4 a.m.</ns0:source>
+                <ns0:target>Her sabah 4'te</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="once-a-week">
+                <ns0:source>Once a week (At 00:00 on Sunday)</ns0:source>
+                <ns0:target>Haftada bir kez (pazar günü saat 00:00'da)</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="once-a-month">
+                <ns0:source>Once a month (At 00:00 on day-of-month 1)</ns0:source>
+                <ns0:target>Ayda bir kez (ayın ilk günü saat 00:00'da)</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="template">
+                <ns0:source>Template</ns0:source>
+                <ns0:target>Şablon</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="minute">
+                <ns0:source>Minute</ns0:source>
+                <ns0:target>Dakika</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="hour">
+                <ns0:source>Hour</ns0:source>
+                <ns0:target>Saat</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="day">
+                <ns0:source>Day</ns0:source>
+                <ns0:target>Gün</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="month">
+                <ns0:source>Month</ns0:source>
+                <ns0:target>Ay</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="weekday">
+                <ns0:source>Weekday</ns0:source>
+                <ns0:target>Hafta</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="cron-job-has-been-added">
+                <ns0:source>Cron Job has been added.</ns0:source>
+                <ns0:target>Zamanlanmış görev eklendi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="cron-job-has-been-deleted">
+                <ns0:source>Cron Job has been deleted.</ns0:source>
+                <ns0:target>Zamanlanmış görev silindi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="cron-job-has-been-saved">
+                <ns0:source>Cron Job has been saved.</ns0:source>
+                <ns0:target>Zamanlanmış görev kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="schedule">
+                <ns0:source>Schedule</ns0:source>
+                <ns0:target>Görev zamanlaması</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="command">
+                <ns0:source>Command</ns0:source>
+                <ns0:target>Komut</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="update">
+                <ns0:source>Update</ns0:source>
+                <ns0:target>Güncelle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="page-speed">
+                <ns0:source>PageSpeed</ns0:source>
+                <ns0:target>Pagespeed kullan</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="purge-cache">
+                <ns0:source>Purge Cache</ns0:source>
+                <ns0:target>Önbelleği temizle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="page-speed-settings-are-not-valid">
+                <ns0:source>PageSpeed Setting are not valid, error message: %errorMessage%</ns0:source>
+                <ns0:target>Pagespeed yapılandırması geçersiz! - hata mesajı: %errormessage%</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="page-speed-settings-have-been-saved">
+                <ns0:source>Page Speed Settings have been saved.</ns0:source>
+                <ns0:target>Page Speed ayarları kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="page-speed-cache-have-been-purged">
+                <ns0:source>Page Speed Cache has been purged.</ns0:source>
+                <ns0:target>Page Speed önbelleği temizlendi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="what-kind-of-site-would-you-like-to-create">
+                <ns0:source>What kind of site would you like to create?</ns0:source>
+                <ns0:target>Nasıl bir site oluşturmak i̇stersiniz ?</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="create-a-wordpress-site">
+                <ns0:source>Create a WordPress Site</ns0:source>
+                <ns0:target>Wordpress sitesi oluştur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="create-a-php-site">
+                <ns0:source>Create a PHP Site</ns0:source>
+                <ns0:target>PHP sitesi oluştur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="create-a-nodejs-site">
+                <ns0:source>Create a Node.js Site</ns0:source>
+                <ns0:target>Node.js sitesi oluştur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="create-a-static-html-site">
+                <ns0:source>Create a Static HTML Site</ns0:source>
+                <ns0:target>Statik HTML sitesi oluştur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="create-a-python-site">
+                <ns0:source>Create a Python Site</ns0:source>
+                <ns0:target>Python sitesi oluştur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="new-site">
+                <ns0:source>New Site</ns0:source>
+                <ns0:target>Yeni site</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="new-wordpress-site">
+                <ns0:source>New WordPress Site</ns0:source>
+                <ns0:target>Yeni WordPress sitesi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="pre-install-wordpress">
+                <ns0:source>Pre-Install WordPress</ns0:source>
+                <ns0:target>Wordpress ön kurulumu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="back">
+                <ns0:source>Back</ns0:source>
+                <ns0:target>Geri dön</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="site-title">
+                <ns0:source>Site Title</ns0:source>
+                <ns0:target>Site başlığı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="admin-email">
+                <ns0:source>Admin E-Mail</ns0:source>
+                <ns0:target>Admin e-posta adresi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="admin-user-name">
+                <ns0:source>Admin User Name</ns0:source>
+                <ns0:target>Admin kullanıcı adı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="admin-password">
+                <ns0:source>Admin Password</ns0:source>
+                <ns0:target>Admin parolası</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="admin-url">
+                <ns0:source>Admin Url</ns0:source>
+                <ns0:target>Admin yönetim paneli</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="multisite">
+                <ns0:source>Multisite</ns0:source>
+                <ns0:target>Çoklu site kullanımı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="vhost-template-does-not-exist">
+                <ns0:source>Vhost Template %vhostTemplate% does not exist.</ns0:source>
+                <ns0:target>Vhost şablonu %vhosttemplate% bulunamadı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="wordpress-site-has-been-created">
+                <ns0:source>WordPress Site has been created!</ns0:source>
+                <ns0:target>Wordpress sitesi oluşturuldu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
+                <ns0:source>Copy the credentials for your created WordPress site.</ns0:source>
+                <ns0:target>Oluşturduğunuz Wordpress sitesinin aşağıda yazılı kimlik bilgilerini kopyalayın !</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="creating">
+                <ns0:source>Creating</ns0:source>
+                <ns0:target>Oluşturuluyor</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="saving">
+                <ns0:source>Saving</ns0:source>
+                <ns0:target>Kaydediliyor</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="new-php-site">
+                <ns0:source>New PHP Site</ns0:source>
+                <ns0:target>Yeni PHP sitesi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="the-main-ssh-user-for-the-site">
+                <ns0:source>The main SSH User for the site.</ns0:source>
+                <ns0:target>Sitenin ana SSH kullanıcısı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="site-has-been-created">
+                <ns0:source>Site has been created.</ns0:source>
+                <ns0:target>Site oluşturuldu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="new-static-html-site">
+                <ns0:source>New Static HTML Site</ns0:source>
+                <ns0:target>Yeni statik HTML sitesi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="new-nodejs-site">
+                <ns0:source>New Node.js Site</ns0:source>
+                <ns0:target>Yeni node.js sitesi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="nodejs-version">
+                <ns0:source>Node.js Version</ns0:source>
+                <ns0:target>Node.js sürümü</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="app-port">
+                <ns0:source>App Port</ns0:source>
+                <ns0:target>Uygulama Portu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="nodejs-settings">
+                <ns0:source>Node.js Settings</ns0:source>
+                <ns0:target>Node.js ayarları</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="nodejs-settings-have-been-saved">
+                <ns0:source>Node.js Settings have been saved.</ns0:source>
+                <ns0:target>Node.js ayarları kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="new-python-site">
+                <ns0:source>New Python Site</ns0:source>
+                <ns0:target>Yeni Python sitesi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="python-version">
+                <ns0:source>Python Version</ns0:source>
+                <ns0:target>Python sürümü</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="is-another-version-needed">
+                <ns0:source>Is another version needed?</ns0:source>
+                <ns0:target>Başka bir sürüm gerekiyorsa</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="check-out-the-docs">
+                <ns0:source>Check out the docs.</ns0:source>
+                <ns0:target>Buraya tıklayın</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="python-settings">
+                <ns0:source>Python Settings</ns0:source>
+                <ns0:target>Python ayarları</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="python-settings-have-been-saved">
+                <ns0:source>Python Settings have been saved.</ns0:source>
+                <ns0:target>Python ayarları kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="operating-system">
+                <ns0:source>Operating System</ns0:source>
+                <ns0:target>İşletim sistemi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="cloud">
+                <ns0:source>Cloud</ns0:source>
+                <ns0:target>Bulut sunucu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="region">
+                <ns0:source>Region</ns0:source>
+                <ns0:target>Bölge</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="droplet-id">
+                <ns0:source>Droplet ID</ns0:source>
+                <ns0:target>Droplet ID</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="instance-id">
+                <ns0:source>Instance ID</ns0:source>
+                <ns0:target>Sunucu id</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="monitoring">
+                <ns0:source>Monitoring</ns0:source>
+                <ns0:target>Sistem gözetimi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="last-30-minutes">
+                <ns0:source>Last 30 Minutes</ns0:source>
+                <ns0:target>Son 30 dakika</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="last-hour">
+                <ns0:source>Last Hour</ns0:source>
+                <ns0:target>Son 1 saat</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="last-3-hours">
+                <ns0:source>Last 3 Hours</ns0:source>
+                <ns0:target>Son 3 saat</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="last-6-hours">
+                <ns0:source>Last 6 Hours</ns0:source>
+                <ns0:target>Son 6 saat</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="last-12-hours">
+                <ns0:source>Last 12 Hours</ns0:source>
+                <ns0:target>Son 12 saat</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="1-minute">
+                <ns0:source>1 Minute</ns0:source>
+                <ns0:target>1 dakika</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="5-minutes">
+                <ns0:source>5 Minutes</ns0:source>
+                <ns0:target>5 dakika</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="15-minutes">
+                <ns0:source>15 Minutes</ns0:source>
+                <ns0:target>15 dakika</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="cpu-usage">
+                <ns0:source>CPU Usage</ns0:source>
+                <ns0:target>İşlemci kullanımı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="disk-usage">
+                <ns0:source>Disk Usage</ns0:source>
+                <ns0:target>Disk kullanımı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="memory-usage">
+                <ns0:source>Memory Usage</ns0:source>
+                <ns0:target>Bellek kullanımı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="load-average">
+                <ns0:source>Load Average</ns0:source>
+                <ns0:target>Ortalama yük</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="remote-backup">
+                <ns0:source>Remote Backup</ns0:source>
+                <ns0:target>Uzaktan yedekleme</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="storage-provider">
+                <ns0:source>Storage Provider</ns0:source>
+                <ns0:target>Depolama sağlayıcısı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="select-storage-provider">
+                <ns0:source>Select Storage Provider</ns0:source>
+                <ns0:target>Depolama sağlayıcısını seçin</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="sftp">
+                <ns0:source>SFTP</ns0:source>
+                <ns0:target>SFTP</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="custom-rclone-config">
+                <ns0:source>Custom Rclone Config</ns0:source>
+                <ns0:target>Özel rclone yapılandırması</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="continue">
+                <ns0:source>Continue</ns0:source>
+                <ns0:target>Devam et</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="enable-remote-backup">
+                <ns0:source>Enable Remote Backup</ns0:source>
+                <ns0:target>Uzaktan yedeklemeyi etkinleştir</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="daily">
+                <ns0:source>Daily</ns0:source>
+                <ns0:target>Günlük</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="time">
+                <ns0:source>Time</ns0:source>
+                <ns0:target>Saat</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="bucket">
+                <ns0:source>Bucket</ns0:source>
+                <ns0:target>Bucket Depo</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="bucket-name">
+                <ns0:source>Bucket Name</ns0:source>
+                <ns0:target>Bucket Depolama adı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="storage-directory">
+                <ns0:source>Storage Directory</ns0:source>
+                <ns0:target>Depolama dizini</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="where-to-store-backups-relative-to-the-root">
+                <ns0:source>Where to store backups relative to the root.</ns0:source>
+                <ns0:target>Yedeklerin kök dizine göre depolanacağı yer</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
+                <ns0:source>Leave blank to continue using the existing secret access key.</ns0:source>
+                <ns0:target>Geçerli gizli erişim anahtarını kullanmaya devam etmek için boş bırakın</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="excludes">
+                <ns0:source>Excludes</ns0:source>
+                <ns0:target>Hariç tutulacaklar</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="remote-backup-settings-have-been-saved">
+                <ns0:source>Remote Backup Settings have been saved.</ns0:source>
+                <ns0:target>Uzaktan yedekleme ayarları kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="remote-backup-settings-have-been-deleted">
+                <ns0:source>Remote Backup Settings have been deleted.</ns0:source>
+                <ns0:target>Uzaktan yedekleme ayarları silindi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="access-key">
+                <ns0:source>Access Key</ns0:source>
+                <ns0:target>Erişim anahtarı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="secret-access-key">
+                <ns0:source>Secret Access Key</ns0:source>
+                <ns0:target>Gizli erişim anahtarı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="your-google-drive-account-email-address">
+                <ns0:source>Your google drive account email address.</ns0:source>
+                <ns0:target>Google drive hesabınızda kullandığınız e-posta adresi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="service-account">
+                <ns0:source>Service Account</ns0:source>
+                <ns0:target>Servis hesabı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
+                <ns0:source>Leave blank to continue using the existing service account.</ns0:source>
+                <ns0:target>Geçerli servis hesabını kullanmaya devam etmek için boş bırakın</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="request-access-code">
+                <ns0:source>Request Access Code</ns0:source>
+                <ns0:target>Erişim kodu talep et</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="access-code">
+                <ns0:source>Access Code</ns0:source>
+                <ns0:target>Erişim kodu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
+                <ns0:source>Click on the button and paste the access code into the next field.</ns0:source>
+                <ns0:target>Butona tıklayın ve erişim kodunu bir sonraki alana yapıştırın</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="create-backup">
+                <ns0:source>Create Backup</ns0:source>
+                <ns0:target>Yedek oluştur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="the-backup-will-be-started-in-the-background-shortly">
+                <ns0:source>The backup will be started in the background shortly.</ns0:source>
+                <ns0:target>Yedekleme kısa süre içinde arka planda başlatılacak</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="authentication-method">
+                <ns0:source>Authentication Method</ns0:source>
+                <ns0:target>Kimlik doğrulama yöntemi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="key">
+                <ns0:source>Key</ns0:source>
+                <ns0:target>Anahtar</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="remote-server-path">
+                <ns0:source>Remote Server Path</ns0:source>
+                <ns0:target>Uzak sunucu yolu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="private-key-path">
+                <ns0:source>Private Key Path</ns0:source>
+                <ns0:target>Özel anahtar dizini</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="space-name">
+                <ns0:source>Space Name</ns0:source>
+                <ns0:target>Alan adı</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="space-endpoint">
+                <ns0:source>Space Endpoint</ns0:source>
+                <ns0:target>Alan uç noktası</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="format-for-s3-compatible-endpoints">
+                <ns0:source>Format for S3 compatible endpoints</ns0:source>
+                <ns0:target>S3 uyumlu uç noktaların biçimi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="varnish-cache">
+                <ns0:source>Varnish Cache</ns0:source>
+                <ns0:target>Varnish önbelleği</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="varnish-server">
+                <ns0:source>Varnish Server</ns0:source>
+                <ns0:target>Varnish sunucusu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="cache-lifetime">
+                <ns0:source>Cache Lifetime</ns0:source>
+                <ns0:target>Önbellek kullanım süresi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
+                <ns0:source>Cache Lifetime in seconds before being refreshed.</ns0:source>
+                <ns0:target>Yenilenmeden önce saniye cinsinden önbellek süresi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="cache-tag-prefix">
+                <ns0:source>Cache Tag Prefix</ns0:source>
+                <ns0:target>Önbellek etiketinin öneki</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="excluded-params">
+                <ns0:source>Excluded Params</ns0:source>
+                <ns0:target>Hariç tutulan parametreler</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
+                <ns0:source>List of GET parameters, separated by a comma, to disable caching.</ns0:source>
+                <ns0:target>Önbelleğe alınmayacak virgülle ayrılmış get parametrelerinin listesi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
+                <ns0:source>Urls and files that Varnish Cache shouldn't cache.</ns0:source>
+                <ns0:target>Varnish önbelleğe alınmayacak URL ve dosyaların listesi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="varnish-cache-settings-have-been-saved">
+                <ns0:source>Varnish Cache Settings have been saved.</ns0:source>
+                <ns0:target>Varnish önbellek ayarları kaydedildi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="purge-entire-cache">
+                <ns0:source>Purge Entire Cache</ns0:source>
+                <ns0:target>Tüm önbelleği temizle</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
+                <ns0:source>You can purge single urls or tags separated by comma.</ns0:source>
+                <ns0:target>Tek URL'leri veya virgülle ayrılmış etiketleri temizleyebilirsiniz</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="varnish-cache-has-been-purged">
+                <ns0:source>Varnish Cache has been purged.</ns0:source>
+                <ns0:target>Varnish önbelleği temizlendi</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="create-a-reverse-proxy">
+                <ns0:source>Create a Reverse Proxy</ns0:source>
+                <ns0:target>Ters Proxy oluştur</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="new-reverse-proxy">
+                <ns0:source>New Reverse Proxy</ns0:source>
+                <ns0:target>Yeni ters Proxy</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="reverse-proxy-url">
+                <ns0:source>Reverse Proxy Url</ns0:source>
+                <ns0:target>Ters Proxy URL</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="reverse-proxy-has-been-created">
+                <ns0:source>Reverse Proxy has been created.</ns0:source>
+                <ns0:target>Ters Proxy oluşturuldu</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="reverse-proxy-settings">
+                <ns0:source>Reverse Proxy Settings</ns0:source>
+                <ns0:target>Ters Proxy ayarları</ns0:target>
+            </ns0:trans-unit>
+            <ns0:trans-unit id="reverse-proxy-settings-have-been-saved">
+                <ns0:source>Reverse Proxy Settings have been saved.</ns0:source>
+                <ns0:target>Ters Proxy ayarları kaydedildi</ns0:target>
+            </ns0:trans-unit>
+        </ns0:body>
+    </ns0:file>
